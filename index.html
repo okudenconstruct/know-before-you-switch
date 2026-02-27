@@ -495,6 +495,7 @@ function Disclaimer(){
     e('summary',null,'Legal Disclaimer'),
     e('p',null,'THIS TOOL IS PROVIDED "AS IS" FOR GENERAL INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY AND DOES NOT CONSTITUTE MEDICAL, FINANCIAL, LEGAL, OR PROFESSIONAL ADVICE OF ANY KIND. THIS TOOL IS NOT AFFILIATED WITH, ENDORSED BY, SPONSORED BY, OR IN ANY WAY OFFICIALLY CONNECTED WITH HORIZON BLUE CROSS BLUE SHIELD OF NEW JERSEY, REDIRECT HEALTH, OR ANY OF THEIR SUBSIDIARIES, AFFILIATES, EMPLOYERS, PLAN ADMINISTRATORS, OR PARENT ORGANIZATIONS.'),
     e('p',null,'All formulary data referenced herein was derived from publicly available documents, including the Horizon BCBSNJ Classic Plan Formulary (October 2025) and the Redirect Health Master Rx Formulary (January 1, 2023). While reasonable efforts have been made to ensure accuracy, the creator of this tool makes no representations or warranties of any kind, express or implied, regarding the completeness, accuracy, reliability, suitability, or availability of the information provided. Formulary data, copay amounts, tier assignments, drug coverage status, and plan terms are subject to change at any time without notice. Errors, omissions, or discrepancies may exist due to limitations in data parsing, normalization, or transcription.'),
+    e('p',null,'The Horizon BCBSNJ data herein reflects the Tier 1 Omnia plan option only. The Redirect Health data reflects the EverydayCARE\u00AE with Hospital plan option only. Other plan tiers, options, or configurations offered by either carrier may have materially different formularies, copay structures, coverage terms, and cost-sharing arrangements. This tool does not account for all available plan variations.'),
     e('p',null,'Actual out-of-pocket costs may vary based on factors including but not limited to: pharmacy selection, drug quantity and dosage, manufacturer pricing changes, plan amendments, prior authorization requirements, step therapy protocols, quantity limits, and individual benefit design. Medications listed as "not on formulary" or "100% member responsibility" may have different coverage status under your specific plan configuration.'),
     e('p',null,'Users should independently verify all cost and coverage information with their plan administrator, benefits coordinator, pharmacy benefit manager, or licensed pharmacist before making any decisions regarding their healthcare coverage or medication management. Do not rely solely on this tool when making healthcare or financial decisions.'),
     e('p',null,'TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE CREATOR OF THIS TOOL DISCLAIMS ALL LIABILITY FOR ANY LOSS, DAMAGE, OR INJURY (WHETHER DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR OTHERWISE) ARISING OUT OF OR IN CONNECTION WITH THE USE OF, OR RELIANCE UPON, ANY INFORMATION PROVIDED BY THIS TOOL. USE OF THIS TOOL IS ENTIRELY AT YOUR OWN RISK.'),
@@ -522,7 +523,7 @@ function App(){
   return e('div',{className:'container'},
     e('header',null,
       e('h1',null,'Know Before You Switch'),
-      e('p',null,'Compare your prescription costs: Horizon BCBS vs Redirect Health')
+      e('p',null,'Compare your prescription costs: Horizon BCBS (Tier 1 Omnia) vs Redirect Health (EverydayCARE w/ Hospital)')
     ),
     
     e(SearchBox,{onAdd:addMed,addedIds}),
@@ -549,7 +550,7 @@ function App(){
     e(Disclaimer),
 
     e('footer',null,
-      e('p',null,'Data sources: Horizon BCBSNJ Classic Formulary (Oct 2025) and Redirect Health Master Rx Formulary (Jan 2023). Copay amounts reflect the EverydayCARE\u00AE with Hospital plan tier. Actual costs may vary by pharmacy, quantity, and dosage.'),
+      e('p',null,'Data sources: Horizon BCBSNJ Tier 1 Omnia Plan Formulary (Oct 2025) and Redirect Health EverydayCARE\u00AE with Hospital Plan Formulary (Jan 2023). Copay amounts reflect these specific plan tiers only and may not apply to other plan options. Actual costs may vary by pharmacy, quantity, and dosage.'),
       e('p',{style:{marginTop:4}},'This tool is for informational purposes only. Verify all costs with your plan administrator.')
     )
   );
