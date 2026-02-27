@@ -279,8 +279,9 @@ function MedCard({drug, qty, onRemove, onQtyChange}){
   const rMonthly=rCopay!==null?rCopay*qty:null;
   
   let flags=[];
-  if(rStatus===0)flags.push({cls:'flag-notcovered',icon:'\u26D4',text:'Not on Redirect formulary. Full cash price. Does NOT count toward out-of-pocket max.'});
-  if(rStatus===2)flags.push({cls:'flag-100pct',icon:'\u26A0',text:'Listed but 100% member responsibility. Does NOT count toward out-of-pocket max.'});
+  const cashLink=drug.id.replace(/[^a-z0-9]/g,'-').replace(/-+$/,'');
+  if(rStatus===0)flags.push({cls:'flag-notcovered',icon:'\u26D4',text:'Not on Redirect formulary. Full cash price. Does NOT count toward out-of-pocket max.',link:cashLink});
+  if(rStatus===2)flags.push({cls:'flag-100pct',icon:'\u26A0',text:'Listed but 100% member responsibility. Does NOT count toward out-of-pocket max.',link:cashLink});
   if(rCopay!==null&&hCopay!==null&&rCopay>hCopay)flags.push({cls:'flag-increase',icon:'\u2B06',text:'Copay increases from $'+hCopay+' to $'+rCopay+' per fill (+$'+(rCopay-hCopay)+'/mo'+(qty>1?' per person':'')+')'});
   
   // Check if redirect copay exceeds typical cash price for common generics
@@ -318,7 +319,10 @@ function MedCard({drug, qty, onRemove, onQtyChange}){
       e('span',null,'More than one person takes this?'),
       e('button',{onClick:()=>onQtyChange(2)},'+'),
     ),
-    flags.map((f,i)=>e('div',{key:i,className:'med-flag '+f.cls},f.icon,' ',f.text))
+    flags.map((f,i)=>e('div',{key:i,className:'med-flag '+f.cls},f.icon,' ',f.text,
+      f.link?e('a',{href:'https://www.goodrx.com/'+f.link,target:'_blank',rel:'noopener noreferrer',
+        style:{marginLeft:6,color:'inherit',fontWeight:700,textDecoration:'underline'}},'Check cash price \u2192'):null
+    ))
   );
 }
 
