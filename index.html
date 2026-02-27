@@ -146,6 +146,16 @@ footer{
 }
 footer a{color:var(--text-muted)}
 
+.disclaimer{
+  background:var(--surface-alt);border:1px solid var(--border);border-radius:var(--radius);
+  padding:16px 18px;margin:24px 0 8px;font-size:0.75rem;color:var(--text-secondary);line-height:1.6;
+}
+.disclaimer summary{
+  font-weight:700;font-size:0.8rem;color:var(--text);cursor:pointer;margin-bottom:8px;
+}
+.disclaimer p{margin-top:8px}
+.disclaimer p:first-of-type{margin-top:4px}
+
 @media(max-width:480px){
   .container{padding:12px}
   header h1{font-size:1.3rem}
@@ -480,6 +490,18 @@ function InfoCards(){
   );
 }
 
+function Disclaimer(){
+  return e('details',{className:'disclaimer'},
+    e('summary',null,'Legal Disclaimer'),
+    e('p',null,'THIS TOOL IS PROVIDED "AS IS" FOR GENERAL INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY AND DOES NOT CONSTITUTE MEDICAL, FINANCIAL, LEGAL, OR PROFESSIONAL ADVICE OF ANY KIND. THIS TOOL IS NOT AFFILIATED WITH, ENDORSED BY, SPONSORED BY, OR IN ANY WAY OFFICIALLY CONNECTED WITH HORIZON BLUE CROSS BLUE SHIELD OF NEW JERSEY, REDIRECT HEALTH, OR ANY OF THEIR SUBSIDIARIES, AFFILIATES, EMPLOYERS, PLAN ADMINISTRATORS, OR PARENT ORGANIZATIONS.'),
+    e('p',null,'All formulary data referenced herein was derived from publicly available documents, including the Horizon BCBSNJ Classic Plan Formulary (October 2025) and the Redirect Health Master Rx Formulary (January 1, 2023). While reasonable efforts have been made to ensure accuracy, the creator of this tool makes no representations or warranties of any kind, express or implied, regarding the completeness, accuracy, reliability, suitability, or availability of the information provided. Formulary data, copay amounts, tier assignments, drug coverage status, and plan terms are subject to change at any time without notice. Errors, omissions, or discrepancies may exist due to limitations in data parsing, normalization, or transcription.'),
+    e('p',null,'Actual out-of-pocket costs may vary based on factors including but not limited to: pharmacy selection, drug quantity and dosage, manufacturer pricing changes, plan amendments, prior authorization requirements, step therapy protocols, quantity limits, and individual benefit design. Medications listed as "not on formulary" or "100% member responsibility" may have different coverage status under your specific plan configuration.'),
+    e('p',null,'Users should independently verify all cost and coverage information with their plan administrator, benefits coordinator, pharmacy benefit manager, or licensed pharmacist before making any decisions regarding their healthcare coverage or medication management. Do not rely solely on this tool when making healthcare or financial decisions.'),
+    e('p',null,'TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE CREATOR OF THIS TOOL DISCLAIMS ALL LIABILITY FOR ANY LOSS, DAMAGE, OR INJURY (WHETHER DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR OTHERWISE) ARISING OUT OF OR IN CONNECTION WITH THE USE OF, OR RELIANCE UPON, ANY INFORMATION PROVIDED BY THIS TOOL. USE OF THIS TOOL IS ENTIRELY AT YOUR OWN RISK.'),
+    e('p',null,'All trademarks, service marks, trade names, and product names referenced herein are the property of their respective owners and are used solely for identification purposes. Their use does not imply any affiliation with or endorsement by the trademark holders.')
+  );
+}
+
 function App(){
   const[meds,setMeds]=useState([]);
   const addedIds=useMemo(()=>new Set(meds.map(m=>m.drug.id)),[meds]);
@@ -524,7 +546,8 @@ function App(){
     e(Summary,{meds}),
     e(ShareButton,{meds}),
     e(InfoCards),
-    
+    e(Disclaimer),
+
     e('footer',null,
       e('p',null,'Data sources: Horizon BCBSNJ Classic Formulary (Oct 2025) and Redirect Health Master Rx Formulary (Jan 2023). Copay amounts reflect the EverydayCARE\u00AE with Hospital plan tier. Actual costs may vary by pharmacy, quantity, and dosage.'),
       e('p',{style:{marginTop:4}},'This tool is for informational purposes only. Verify all costs with your plan administrator.')
