@@ -5,7 +5,7 @@
 | File | Records | Description |
 |------|---------|-------------|
 | `horizon_formulary.json` | ~1,440 | Horizon BCBSNJ Classic Formulary (Oct 2025), keyed by normalized drug name |
-| `redirect_formulary.json` | ~523 | Redirect Health Master Rx Formulary (Jan 2023), keyed by normalized drug name |
+| `redirect_formulary.json` | ~523 | Redirect Health Master Rx Formulary (Jan 2026), keyed by normalized drug name |
 | `unified_formulary.json` | ~1,784 | Merged dataset with both plans side-by-side, keyed by normalized drug name |
 | `app_data.json` | ~1,784 | Compact version of unified data optimized for frontend embedding (short keys) |
 
@@ -86,16 +86,18 @@ Dictionary keyed by normalized drug name.
 
 | Copay | Count | Examples |
 |-------|-------|---------|
-| $0 | 64 | Contraceptives |
+| $0 | 63 | Contraceptives |
 | $10 | 34 | Common generics (allopurinol, amitriptyline) |
 | $25 | 223 | Most generics |
 | $50 | 52 | Some generics, preferred brands |
-| $100 | 124 | Specialty/brand drugs |
-| 100% member resp | 26 | Listed but fully excluded (Ozempic, Humira, Eliquis, etc.) |
+| $100 | 123 | Specialty/brand drugs |
+| 100% member resp | 28 | Listed but fully excluded (Ozempic, Humira, Eliquis, Paxlovid, Slynd, etc.) |
 
 **Critical:** "100% Member Responsibility" drugs are listed on the formulary but NOT covered. Costs do NOT count toward the $6,000 out-of-pocket maximum.
 
-Source: Redirect Health Master Rx Formulary, January 1, 2023
+**Changes from Jan 2023 → Jan 2026:** Paxlovid ($0 → 100% MR), Slynd ($100 → 100% MR). All other copays unchanged.
+
+Source: Redirect Health Master Rx Formulary, January 1, 2026
 
 ---
 
@@ -208,6 +210,7 @@ Full mapping is embedded in the app's search logic.
 ## Parsing Notes
 
 - Horizon PDF (128 pages) was parsed with pdfplumber. The main drug listing uses a tier-number-first layout that wraps across lines. Tier assignments were extracted from both the main listings and the index section, with manual verification for key medications.
-- Redirect PDF was parsed from a 3-column table layout (EverydayCARE / with Hospital / with Hospital PLUS). The "with Hospital" column (column 2) was used as the relevant plan tier.
+- Redirect PDF (Jan 2026, 8 pages) was parsed using PyMuPDF with coordinate-based column mapping from a 5-column table layout (iEverydayCARE / MEC / EverydayCARE / with Hospital / with Hospital PLUS). The "with Hospital" column (column 4) was used as the relevant plan tier for The Earle Companies' plan.
 - Drug name normalization strips salt forms (hcl, sodium, sulfate, etc.), dosage forms (tab, cap, soln, etc.), and strength info to create base-name keys for cross-referencing.
 - Some Horizon entries had parsing artifacts from multi-line wrapping. Manual entries were added for verified drugs that the parser missed or mangled.
+- The Jan 2026 Redirect formulary has the same 523 drug entries as Jan 2023, with only 2 coverage changes (Paxlovid and Slynd moved to 100% Member Responsibility).

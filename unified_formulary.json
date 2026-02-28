@@ -17284,8 +17284,8 @@
       "covered": true
     },
     "redirect": {
-      "copay": 0,
-      "covered": true
+      "covered": false,
+      "note": "100% member responsibility"
     }
   },
   {
@@ -20762,8 +20762,8 @@
       "covered": false
     },
     "redirect": {
-      "copay": 100,
-      "covered": true
+      "covered": false,
+      "note": "100% member responsibility"
     }
   },
   {

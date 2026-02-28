@@ -1,2643 +1,2645 @@
 {
   "acarbose": {
-    "display_name": "Acarbose",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Acarbose"
   },
   "accutane": {
-    "display_name": "Accutane",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Accutane"
   },
   "acyclovir": {
-    "display_name": "Acyclovir",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Acyclovir"
   },
   "adapalene-benzoyl peroxide": {
-    "display_name": "Adapalene-Benzoyl Peroxide",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Adapalene-Benzoyl Peroxide"
   },
   "adlyxin starter pack": {
-    "display_name": "Adlyxin Starter Pack",
     "copay": null,
     "covered": false,
+    "display_name": "Adlyxin Starter Pack",
     "note": "100% member responsibility"
   },
   "admelog": {
-    "display_name": "Admelog",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Admelog"
   },
   "aimovig": {
-    "display_name": "Aimovig",
     "copay": null,
     "covered": false,
+    "display_name": "Aimovig",
     "note": "100% member responsibility"
   },
   "airduo respiclick 113/14": {
-    "display_name": "Airduo Respiclick 113/14",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Airduo Respiclick 113/14"
   },
   "albendazole": {
-    "display_name": "Albendazole",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Albendazole"
   },
   "albuterol sulfate": {
-    "display_name": "Albuterol Sulfate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Albuterol Sulfate"
   },
   "albuterol sulfate hfa": {
-    "display_name": "Albuterol Sulfate Hfa",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Albuterol Sulfate Hfa"
   },
   "alendronate sodium": {
-    "display_name": "Alendronate Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Alendronate Sodium"
   },
   "alfuzosin hcl er": {
-    "display_name": "Alfuzosin Hcl Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Alfuzosin Hcl Er"
   },
   "allopurinol": {
-    "display_name": "Allopurinol",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Allopurinol"
   },
   "alogliptin-metformin hcl": {
-    "display_name": "Alogliptin-Metformin Hcl",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Alogliptin-Metformin Hcl"
   },
   "alprazolam": {
-    "display_name": "Alprazolam",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Alprazolam"
   },
   "amantadine hcl": {
-    "display_name": "Amantadine Hcl",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Amantadine Hcl"
   },
   "amethia lo": {
-    "display_name": "Amethia Lo",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Amethia Lo"
   },
   "amiodarone hcl": {
-    "display_name": "Amiodarone Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Amiodarone Hcl"
   },
   "amitriptyline hcl": {
-    "display_name": "Amitriptyline Hcl",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Amitriptyline Hcl"
   },
   "amlodipine besy-benazepril hcl": {
-    "display_name": "Amlodipine Besy-Benazepril Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Amlodipine Besy-Benazepril Hcl"
   },
   "amlodipine besylate": {
-    "display_name": "Amlodipine Besylate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Amlodipine Besylate"
   },
   "amlodipine besylate-valsartan": {
-    "display_name": "Amlodipine Besylate-Valsartan",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Amlodipine Besylate-Valsartan"
   },
   "amlodipine-olmesartan": {
-    "display_name": "Amlodipine-Olmesartan",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Amlodipine-Olmesartan"
   },
   "amoxicillin": {
-    "display_name": "Amoxicillin",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Amoxicillin"
   },
   "amoxicillin-pot clavulanate": {
-    "display_name": "Amoxicillin-Pot Clavulanate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Amoxicillin-Pot Clavulanate"
   },
   "amphetamine-dextroamphetamine": {
-    "display_name": "Amphetamine-Dextroamphetamine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Amphetamine-Dextroamphetamine"
   },
   "anastrozole": {
-    "display_name": "Anastrozole",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Anastrozole"
   },
   "androderm": {
-    "display_name": "Androderm",
     "copay": null,
     "covered": false,
+    "display_name": "Androderm",
     "note": "100% member responsibility"
   },
   "anucort-hc": {
-    "display_name": "Anucort-Hc",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Anucort-Hc"
   },
   "apri": {
-    "display_name": "Apri",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Apri"
   },
   "aripiprazole": {
-    "display_name": "Aripiprazole",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Aripiprazole"
   },
   "armour thyroid": {
-    "display_name": "Armour Thyroid",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Armour Thyroid"
   },
   "asmanex (30 metered doses)": {
-    "display_name": "Asmanex (30 Metered Doses)",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Asmanex (30 Metered Doses)"
   },
   "asmanex hfa": {
-    "display_name": "Asmanex Hfa",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Asmanex Hfa"
   },
   "atenolol": {
-    "display_name": "Atenolol",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Atenolol"
   },
   "atenolol-chlorthalidone": {
-    "display_name": "Atenolol-Chlorthalidone",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Atenolol-Chlorthalidone"
   },
   "atomoxetine hcl": {
-    "display_name": "Atomoxetine Hcl",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Atomoxetine Hcl"
   },
   "atorvastatin calcium": {
-    "display_name": "Atorvastatin Calcium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Atorvastatin Calcium"
   },
   "aurovela fe 1/20": {
-    "display_name": "Aurovela Fe 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Aurovela Fe 1/20"
   },
   "aviane": {
-    "display_name": "Aviane",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Aviane"
   },
   "azathioprine": {
-    "display_name": "Azathioprine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Azathioprine"
   },
   "azelastine hcl": {
-    "display_name": "Azelastine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Azelastine Hcl"
   },
   "azelastine-fluticasone": {
-    "display_name": "Azelastine-Fluticasone",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Azelastine-Fluticasone"
   },
   "azithromycin": {
-    "display_name": "Azithromycin",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Azithromycin"
   },
   "azurette": {
-    "display_name": "Azurette",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Azurette"
   },
   "baclofen": {
-    "display_name": "Baclofen",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Baclofen"
   },
   "basaglar kwikpen": {
-    "display_name": "Basaglar Kwikpen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Basaglar Kwikpen"
   },
   "benazepril hcl": {
-    "display_name": "Benazepril Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Benazepril Hcl"
   },
   "benazepril-hydrochlorothiazide": {
-    "display_name": "Benazepril-Hydrochlorothiazide",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Benazepril-Hydrochlorothiazide"
   },
   "benicar": {
-    "display_name": "Benicar",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Benicar"
   },
   "benzonatate": {
-    "display_name": "Benzonatate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Benzonatate"
   },
   "benzoyl peroxide wash": {
-    "display_name": "Benzoyl Peroxide Wash",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Benzoyl Peroxide Wash"
   },
   "benztropine mesylate": {
-    "display_name": "Benztropine Mesylate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Benztropine Mesylate"
   },
   "besivance": {
-    "display_name": "Besivance",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Besivance"
   },
   "betamethasone dipropionate": {
-    "display_name": "Betamethasone Dipropionate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Betamethasone Dipropionate"
   },
   "betamethasone dipropionate aug": {
-    "display_name": "Betamethasone Dipropionate Aug",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Betamethasone Dipropionate Aug"
   },
   "betamethasone valerate": {
-    "display_name": "Betamethasone Valerate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Betamethasone Valerate"
   },
   "biktarvy": {
-    "display_name": "Biktarvy",
     "copay": null,
     "covered": false,
+    "display_name": "Biktarvy",
     "note": "100% member responsibility"
   },
   "bimatoprost": {
-    "display_name": "Bimatoprost",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Bimatoprost"
   },
   "bisoprolol fumarate": {
-    "display_name": "Bisoprolol Fumarate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Bisoprolol Fumarate"
   },
   "bisoprolol-hydrochlorothiazide": {
-    "display_name": "Bisoprolol-Hydrochlorothiazide",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Bisoprolol-Hydrochlorothiazide"
   },
   "blisovi fe 1/20": {
-    "display_name": "Blisovi Fe 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Blisovi Fe 1/20"
   },
   "breztri aerosphere": {
-    "display_name": "Breztri Aerosphere",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Breztri Aerosphere"
   },
   "brilinta": {
-    "display_name": "Brilinta",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Brilinta"
   },
   "budesonide": {
-    "display_name": "Budesonide",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Budesonide"
   },
   "budesonide er": {
-    "display_name": "Budesonide Er",
     "copay": null,
     "covered": false,
+    "display_name": "Budesonide Er",
     "note": "100% member responsibility"
   },
   "budesonide-formoterol fumarate": {
-    "display_name": "Budesonide-Formoterol Fumarate",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Budesonide-Formoterol Fumarate"
   },
   "bumetanide": {
-    "display_name": "Bumetanide",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Bumetanide"
   },
   "bupropion hcl": {
-    "display_name": "Bupropion Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Bupropion Hcl"
   },
   "bupropion hcl er (sr)": {
-    "display_name": "Bupropion Hcl Er (Sr)",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Bupropion Hcl Er (Sr)"
   },
   "bupropion hcl er (xl)": {
-    "display_name": "Bupropion Hcl Er (Xl)",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Bupropion Hcl Er (Xl)"
   },
   "buspirone hcl": {
-    "display_name": "Buspirone Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Buspirone Hcl"
   },
   "butalbital-apap-caffeine": {
-    "display_name": "Butalbital-Apap-Caffeine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Butalbital-Apap-Caffeine"
   },
   "bydureon": {
-    "display_name": "Bydureon",
     "copay": null,
     "covered": false,
+    "display_name": "Bydureon",
     "note": "100% member responsibility"
   },
   "byetta": {
-    "display_name": "Byetta 5 Mcg Pen",
     "copay": null,
     "covered": false,
+    "display_name": "Byetta 5 Mcg Pen",
     "note": "100% member responsibility"
   },
   "bystolic": {
-    "display_name": "Bystolic",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Bystolic"
   },
   "calcitriol": {
-    "display_name": "Calcitriol",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Calcitriol"
   },
   "camila": {
-    "display_name": "Camila",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Camila"
   },
   "camrese lo": {
-    "display_name": "Camrese Lo",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Camrese Lo"
   },
   "captopril-hydrochlorothiazide": {
-    "display_name": "Captopril-Hydrochlorothiazide",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Captopril-Hydrochlorothiazide"
   },
   "carbamazepine": {
-    "display_name": "Carbamazepine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Carbamazepine"
   },
   "carbamazepine er": {
-    "display_name": "Carbamazepine Er",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Carbamazepine Er"
   },
   "carbidopa-levodopa": {
-    "display_name": "Carbidopa-Levodopa",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Carbidopa-Levodopa"
   },
   "carisoprodol": {
-    "display_name": "Carisoprodol",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Carisoprodol"
   },
   "cartia xt": {
-    "display_name": "Cartia Xt",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Cartia Xt"
   },
   "carvedilol": {
-    "display_name": "Carvedilol",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Carvedilol"
   },
   "cefaclor": {
-    "display_name": "Cefaclor",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Cefaclor"
   },
   "cefaclor er": {
-    "display_name": "Cefaclor Er",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Cefaclor Er"
   },
   "cefadroxil": {
-    "display_name": "Cefadroxil",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Cefadroxil"
   },
   "cefdinir": {
-    "display_name": "Cefdinir",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Cefdinir"
   },
   "cefditoren pivoxil": {
-    "display_name": "Cefditoren Pivoxil",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Cefditoren Pivoxil"
   },
   "cefixime": {
-    "display_name": "Cefixime",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Cefixime"
   },
   "cefprozil": {
-    "display_name": "Cefprozil",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Cefprozil"
   },
   "ceftriaxone sodium": {
-    "display_name": "Ceftriaxone Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Ceftriaxone Sodium"
   },
   "cefuroxime axetil": {
-    "display_name": "Cefuroxime Axetil",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Cefuroxime Axetil"
   },
   "celecoxib": {
-    "display_name": "Celecoxib",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Celecoxib"
   },
   "cephalexin": {
-    "display_name": "Cephalexin",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Cephalexin"
   },
   "cetirizine hcl": {
-    "display_name": "Cetirizine Hcl",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Cetirizine Hcl"
   },
   "chlorthalidone": {
-    "display_name": "Chlorthalidone",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Chlorthalidone"
   },
   "cholestyramine": {
-    "display_name": "Cholestyramine",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Cholestyramine"
   },
   "cimetidine": {
-    "display_name": "Cimetidine",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Cimetidine"
   },
   "ciprofloxacin hcl": {
-    "display_name": "Ciprofloxacin Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Ciprofloxacin Hcl"
   },
   "ciprofloxacin-dexamethasone": {
-    "display_name": "Ciprofloxacin-Dexamethasone",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Ciprofloxacin-Dexamethasone"
   },
   "citalopram hydrobromide": {
-    "display_name": "Citalopram Hydrobromide",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Citalopram Hydrobromide"
   },
   "clarithromycin": {
-    "display_name": "Clarithromycin",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Clarithromycin"
   },
   "climara": {
-    "display_name": "Climara",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Climara"
   },
   "clindamycin hcl": {
-    "display_name": "Clindamycin Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Clindamycin Hcl"
   },
   "clindamycin palmitate hcl": {
-    "display_name": "Clindamycin Palmitate Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Clindamycin Palmitate Hcl"
   },
   "clindamycin phos-benzoyl perox": {
-    "display_name": "Clindamycin Phos-Benzoyl Perox",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Clindamycin Phos-Benzoyl Perox"
   },
   "clindamycin phosphate": {
-    "display_name": "Clindamycin Phosphate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Clindamycin Phosphate"
   },
   "clobetasol propionate": {
-    "display_name": "Clobetasol Propionate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Clobetasol Propionate"
   },
   "clonidine hcl": {
-    "display_name": "Clonidine Hcl",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Clonidine Hcl"
   },
   "clopidogrel bisulfate": {
-    "display_name": "Clopidogrel Bisulfate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Clopidogrel Bisulfate"
   },
   "clotrimazole": {
-    "display_name": "Clotrimazole",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Clotrimazole"
   },
   "clotrimazole-betamethasone": {
-    "display_name": "Clotrimazole-Betamethasone",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Clotrimazole-Betamethasone"
   },
   "colchicine": {
-    "display_name": "Colchicine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Colchicine"
   },
   "combigan": {
-    "display_name": "Combigan",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Combigan"
   },
   "combivent respimat": {
-    "display_name": "Combivent Respimat",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Combivent Respimat"
   },
   "coreg": {
-    "display_name": "Coreg",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Coreg"
   },
   "corlanor": {
-    "display_name": "Corlanor",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Corlanor"
   },
   "creon": {
-    "display_name": "Creon",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Creon"
   },
   "crestor": {
-    "display_name": "Crestor",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Crestor"
   },
   "cromolyn sodium": {
-    "display_name": "Cromolyn Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Cromolyn Sodium"
   },
   "cryselle-28": {
-    "display_name": "Cryselle-28",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Cryselle-28"
   },
   "cyanocobalamin": {
-    "display_name": "Cyanocobalamin",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Cyanocobalamin"
   },
   "cyclobenzaprine hcl": {
-    "display_name": "Cyclobenzaprine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Cyclobenzaprine Hcl"
   },
   "cytomel": {
-    "display_name": "Cytomel",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Cytomel"
   },
   "cytotec": {
-    "display_name": "Cytotec",
     "copay": null,
     "covered": false,
+    "display_name": "Cytotec",
     "note": "100% member responsibility"
   },
   "daliresp": {
-    "display_name": "Daliresp",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Daliresp"
   },
   "depo-subq provera": {
-    "display_name": "Depo-Subq Provera 104",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Depo-Subq Provera 104"
   },
   "desloratadine": {
-    "display_name": "Desloratadine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Desloratadine"
   },
   "desmopressin acetate": {
-    "display_name": "Desmopressin Acetate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Desmopressin Acetate"
   },
   "desogestrel-ethinyl estradiol": {
-    "display_name": "Desogestrel-Ethinyl Estradiol",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Desogestrel-Ethinyl Estradiol"
   },
   "desvenlafaxine succinate er": {
-    "display_name": "Desvenlafaxine Succinate Er",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Desvenlafaxine Succinate Er"
   },
   "dexamethasone": {
-    "display_name": "Dexamethasone",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Dexamethasone"
   },
   "dexamethasone intensol": {
-    "display_name": "Dexamethasone Intensol",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Dexamethasone Intensol"
   },
   "dexmethylphenidate hcl er": {
-    "display_name": "Dexmethylphenidate Hcl Er",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Dexmethylphenidate Hcl Er"
   },
   "dextroamphetamine sulfate": {
-    "display_name": "Dextroamphetamine Sulfate",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Dextroamphetamine Sulfate"
   },
   "dextroamphetamine sulfate er": {
-    "display_name": "Dextroamphetamine Sulfate Er",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Dextroamphetamine Sulfate Er"
   },
   "diazepam": {
-    "display_name": "Diazepam",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Diazepam"
   },
   "diclofenac potassium": {
-    "display_name": "Diclofenac Potassium",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Diclofenac Potassium"
   },
   "dicloxacillin sodium": {
-    "display_name": "Dicloxacillin Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Dicloxacillin Sodium"
   },
   "dicyclomine hcl": {
-    "display_name": "Dicyclomine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Dicyclomine Hcl"
   },
   "digoxin": {
-    "display_name": "Digoxin",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Digoxin"
   },
   "diltiazem hcl": {
-    "display_name": "Diltiazem Hcl",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Diltiazem Hcl"
   },
   "diltiazem hcl er": {
-    "display_name": "Diltiazem Hcl Er",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Diltiazem Hcl Er"
   },
   "diovan": {
-    "display_name": "Diovan",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Diovan"
   },
   "divalproex sodium": {
-    "display_name": "Divalproex Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Divalproex Sodium"
   },
   "divalproex sodium er": {
-    "display_name": "Divalproex Sodium Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Divalproex Sodium Er"
   },
   "donepezil hcl": {
-    "display_name": "Donepezil Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Donepezil Hcl"
   },
   "dotti": {
-    "display_name": "Dotti",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Dotti"
   },
   "doxazosin mesylate": {
-    "display_name": "Doxazosin Mesylate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Doxazosin Mesylate"
   },
   "doxepin hcl": {
-    "display_name": "Doxepin Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Doxepin Hcl"
   },
   "doxycycline hyclate": {
-    "display_name": "Doxycycline Hyclate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Doxycycline Hyclate"
   },
   "doxycycline monohydrate": {
-    "display_name": "Doxycycline Monohydrate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Doxycycline Monohydrate"
   },
   "drospirenone-ethinyl estradiol": {
-    "display_name": "Drospirenone-Ethinyl Estradiol",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Drospirenone-Ethinyl Estradiol"
   },
   "drysol": {
-    "display_name": "Drysol",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Drysol"
   },
   "dulera": {
-    "display_name": "Dulera",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Dulera"
   },
   "duloxetine hcl": {
-    "display_name": "Duloxetine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Duloxetine Hcl"
   },
   "dutasteride": {
-    "display_name": "Dutasteride",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Dutasteride"
   },
   "elestrin": {
-    "display_name": "Elestrin",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Elestrin"
   },
   "eliquis": {
-    "display_name": "Eliquis",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Eliquis"
   },
   "eliquis dvt/pe starter pack": {
-    "display_name": "Eliquis Dvt/Pe Starter Pack",
     "copay": null,
     "covered": false,
+    "display_name": "Eliquis Dvt/Pe Starter Pack",
     "note": "100% member responsibility"
   },
   "eluryng": {
-    "display_name": "Eluryng",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Eluryng"
   },
   "emgality": {
-    "display_name": "Emgality",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Emgality"
   },
   "emtricitabine-tenofovir df": {
-    "display_name": "Emtricitabine-Tenofovir Df",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Emtricitabine-Tenofovir Df"
   },
   "enalapril maleate": {
-    "display_name": "Enalapril Maleate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Enalapril Maleate"
   },
   "enbrel": {
-    "display_name": "Enbrel",
     "copay": null,
     "covered": false,
+    "display_name": "Enbrel",
     "note": "100% member responsibility"
   },
   "enoxaparin sodium": {
-    "display_name": "Enoxaparin Sodium",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Enoxaparin Sodium"
   },
   "enskyce": {
-    "display_name": "Enskyce",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Enskyce"
   },
   "entresto": {
-    "display_name": "Entresto",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Entresto"
   },
   "epinephrine": {
-    "display_name": "Epinephrine",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Epinephrine"
   },
   "epogen": {
-    "display_name": "Epogen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Epogen"
   },
   "errin": {
-    "display_name": "Errin",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Errin"
   },
   "erythromycin base": {
-    "display_name": "Erythromycin Base",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Erythromycin Base"
   },
   "escitalopram oxalate": {
-    "display_name": "Escitalopram Oxalate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Escitalopram Oxalate"
   },
   "esomeprazole magnesium": {
-    "display_name": "Esomeprazole Magnesium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Esomeprazole Magnesium"
   },
   "estradiol": {
-    "display_name": "Estradiol",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Estradiol"
   },
   "estrogel": {
-    "display_name": "Estrogel",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Estrogel"
   },
   "eszopiclone": {
-    "display_name": "Eszopiclone",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Eszopiclone"
   },
   "etodolac": {
-    "display_name": "Etodolac",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Etodolac"
   },
   "etodolac er": {
-    "display_name": "Etodolac Er",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Etodolac Er"
   },
   "euthyrox": {
-    "display_name": "Euthyrox",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Euthyrox"
   },
   "ezetimibe": {
-    "display_name": "Ezetimibe",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Ezetimibe"
   },
   "ezetimibe-simvastatin": {
-    "display_name": "Ezetimibe-Simvastatin",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Ezetimibe-Simvastatin"
   },
   "famciclovir": {
-    "display_name": "Famciclovir",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Famciclovir"
   },
   "famotidine": {
-    "display_name": "Famotidine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Famotidine"
   },
   "farxiga": {
-    "display_name": "Farxiga",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Farxiga"
   },
   "femynor": {
-    "display_name": "Femynor",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Femynor"
   },
   "fenofibrate": {
-    "display_name": "Fenofibrate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Fenofibrate"
   },
   "ferrous sulfate": {
-    "display_name": "Ferrous Sulfate",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Ferrous Sulfate"
   },
   "fexofenadine hcl": {
-    "display_name": "Fexofenadine Hcl",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Fexofenadine Hcl"
   },
   "finasteride": {
-    "display_name": "Finasteride",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Finasteride"
   },
   "flecainide acetate": {
-    "display_name": "Flecainide Acetate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Flecainide Acetate"
   },
   "flonase allergy relief": {
-    "display_name": "Flonase Allergy Relief",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Flonase Allergy Relief"
   },
   "fluconazole": {
-    "display_name": "Fluconazole",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Fluconazole"
   },
   "fluorouracil": {
-    "display_name": "Fluorouracil",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Fluorouracil"
   },
   "fluoxetine hcl": {
-    "display_name": "Fluoxetine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Fluoxetine Hcl"
   },
   "fluticasone propionate": {
-    "display_name": "Fluticasone Propionate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Fluticasone Propionate"
   },
   "fluticasone-salmeterol": {
-    "display_name": "Fluticasone-Salmeterol",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Fluticasone-Salmeterol"
   },
   "fluvoxamine maleate": {
-    "display_name": "Fluvoxamine Maleate",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Fluvoxamine Maleate"
   },
   "fluvoxamine maleate er": {
-    "display_name": "Fluvoxamine Maleate Er",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Fluvoxamine Maleate Er"
   },
   "folic acid": {
-    "display_name": "Folic Acid",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Folic Acid"
   },
   "furosemide": {
-    "display_name": "Furosemide",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Furosemide"
   },
   "gabapentin": {
-    "display_name": "Gabapentin",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Gabapentin"
   },
   "gemfibrozil": {
-    "display_name": "Gemfibrozil",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Gemfibrozil"
   },
   "gianvi": {
-    "display_name": "Gianvi",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Gianvi"
   },
   "glimepiride": {
-    "display_name": "Glimepiride",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Glimepiride"
   },
   "glipizide": {
-    "display_name": "Glipizide",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Glipizide"
   },
   "glipizide er": {
-    "display_name": "Glipizide Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Glipizide Er"
   },
   "glipizide xl": {
-    "display_name": "Glipizide Xl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Glipizide Xl"
   },
   "glucagon emergency": {
-    "display_name": "Glucagon Emergency",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Glucagon Emergency"
   },
   "glyburide-metformin": {
-    "display_name": "Glyburide-Metformin",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Glyburide-Metformin"
   },
   "griseofulvin microsize": {
-    "display_name": "Griseofulvin Microsize",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Griseofulvin Microsize"
   },
   "guaifenesin-codeine": {
-    "display_name": "Guaifenesin-Codeine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Guaifenesin-Codeine"
   },
   "hailey fe 1/20": {
-    "display_name": "Hailey Fe 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Hailey Fe 1/20"
   },
   "halobetasol propionate": {
-    "display_name": "Halobetasol Propionate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Halobetasol Propionate"
   },
   "haloperidol": {
-    "display_name": "Haloperidol",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Haloperidol"
   },
   "heather": {
-    "display_name": "Heather",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Heather"
   },
   "humalog": {
-    "display_name": "Humalog",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humalog"
   },
   "humalog junior kwikpen": {
-    "display_name": "Humalog Junior Kwikpen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humalog Junior Kwikpen"
   },
   "humalog kwikpen": {
-    "display_name": "Humalog Kwikpen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humalog Kwikpen"
   },
   "humalog mix 50/50": {
-    "display_name": "Humalog Mix 50/50",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humalog Mix 50/50"
   },
   "humalog mix 50/50 kwikpen": {
-    "display_name": "Humalog Mix 50/50 Kwikpen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humalog Mix 50/50 Kwikpen"
   },
   "humalog mix 75/25": {
-    "display_name": "Humalog Mix 75/25",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humalog Mix 75/25"
   },
   "humalog mix 75/25 kwikpen": {
-    "display_name": "Humalog Mix 75/25 Kwikpen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humalog Mix 75/25 Kwikpen"
   },
   "humira pen": {
-    "display_name": "Humira Pen",
     "copay": null,
     "covered": false,
+    "display_name": "Humira Pen",
     "note": "100% member responsibility"
   },
   "humulin 70/30": {
-    "display_name": "Humulin 70/30",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humulin 70/30"
   },
   "humulin 70/30 kwikpen": {
-    "display_name": "Humulin 70/30 Kwikpen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humulin 70/30 Kwikpen"
   },
   "humulin n": {
-    "display_name": "Humulin N",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humulin N"
   },
   "humulin r": {
-    "display_name": "Humulin R",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humulin R"
   },
   "humulin r u-500 kwikpen": {
-    "display_name": "Humulin R U-500 Kwikpen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Humulin R U-500 Kwikpen"
   },
   "hydralazine hcl": {
-    "display_name": "Hydralazine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Hydralazine Hcl"
   },
   "hydrochlorothiazide": {
-    "display_name": "Hydrochlorothiazide",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Hydrochlorothiazide"
   },
   "hydrocodone-acetaminophen": {
-    "display_name": "Hydrocodone-Acetaminophen",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Hydrocodone-Acetaminophen"
   },
   "hydrocortisone": {
-    "display_name": "Hydrocortisone",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Hydrocortisone"
   },
   "hydrocortisone butyrate": {
-    "display_name": "Hydrocortisone Butyrate",
     "copay": null,
     "covered": false,
+    "display_name": "Hydrocortisone Butyrate",
     "note": "100% member responsibility"
   },
   "hydroxychloroquine sulfate": {
-    "display_name": "Hydroxychloroquine Sulfate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Hydroxychloroquine Sulfate"
   },
   "hydroxyurea": {
-    "display_name": "Hydroxyurea",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Hydroxyurea"
   },
   "hydroxyzine hcl": {
-    "display_name": "Hydroxyzine Hcl",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Hydroxyzine Hcl"
   },
   "hyoscyamine sulfate": {
-    "display_name": "Hyoscyamine Sulfate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Hyoscyamine Sulfate"
   },
   "ibuprofen": {
-    "display_name": "Ibuprofen",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Ibuprofen"
   },
   "imipramine hcl": {
-    "display_name": "Imipramine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Imipramine Hcl"
   },
   "imiquimod": {
-    "display_name": "Imiquimod",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Imiquimod"
   },
   "incassia": {
-    "display_name": "Incassia",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Incassia"
   },
   "indapamide": {
-    "display_name": "Indapamide",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Indapamide"
   },
   "insulin lispro": {
-    "display_name": "Insulin Lispro",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Insulin Lispro"
   },
   "insulin lispro (1 unit dial)": {
-    "display_name": "Insulin Lispro (1 Unit Dial)",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Insulin Lispro (1 Unit Dial)"
   },
   "ipratropium bromide": {
-    "display_name": "Ipratropium Bromide",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Ipratropium Bromide"
   },
   "ipratropium-albuterol": {
-    "display_name": "Ipratropium-Albuterol",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Ipratropium-Albuterol"
   },
   "irbesartan": {
-    "display_name": "Irbesartan",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Irbesartan"
   },
   "irbesartan-hydrochlorothiazide": {
-    "display_name": "Irbesartan-Hydrochlorothiazide",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Irbesartan-Hydrochlorothiazide"
   },
   "isibloom": {
-    "display_name": "Isibloom",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Isibloom"
   },
   "isoniazid": {
-    "display_name": "Isoniazid",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Isoniazid"
   },
   "isosorbide dinitrate": {
-    "display_name": "Isosorbide Dinitrate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Isosorbide Dinitrate"
   },
   "isosorbide mononitrate er": {
-    "display_name": "Isosorbide Mononitrate Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Isosorbide Mononitrate Er"
   },
   "isotretinoin": {
-    "display_name": "Isotretinoin",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Isotretinoin"
   },
   "ivermectin": {
-    "display_name": "Ivermectin",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Ivermectin"
   },
   "janumet": {
-    "display_name": "Janumet",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Janumet"
   },
   "janumet xr": {
-    "display_name": "Janumet Xr",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Janumet Xr"
   },
   "januvia": {
-    "display_name": "Januvia",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Januvia"
   },
   "junel 1/20": {
-    "display_name": "Junel 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Junel 1/20"
   },
   "junel fe 1/20": {
-    "display_name": "Junel Fe 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Junel Fe 1/20"
   },
   "kapspargo sprinkle": {
-    "display_name": "Kapspargo Sprinkle",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Kapspargo Sprinkle"
   },
   "kelnor 1/35": {
-    "display_name": "Kelnor 1/35",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Kelnor 1/35"
   },
   "ketoconazole": {
-    "display_name": "Ketoconazole",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Ketoconazole"
   },
   "ketorolac tromethamine": {
-    "display_name": "Ketorolac Tromethamine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Ketorolac Tromethamine"
   },
   "kombiglyze xr": {
-    "display_name": "Kombiglyze Xr",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Kombiglyze Xr"
   },
   "labetalol hcl": {
-    "display_name": "Labetalol Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Labetalol Hcl"
   },
   "lamotrigine": {
-    "display_name": "Lamotrigine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Lamotrigine"
   },
   "lamotrigine er": {
-    "display_name": "Lamotrigine Er",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Lamotrigine Er"
   },
   "lansoprazole": {
-    "display_name": "Lansoprazole",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Lansoprazole"
   },
   "lantus": {
-    "display_name": "Lantus",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Lantus"
   },
   "larin 1/20": {
-    "display_name": "Larin 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Larin 1/20"
   },
   "larin fe 1/20": {
-    "display_name": "Larin Fe 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Larin Fe 1/20"
   },
   "latanoprost": {
-    "display_name": "Latanoprost",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Latanoprost"
   },
   "lessina": {
-    "display_name": "Lessina",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Lessina"
   },
   "levalbuterol hcl": {
-    "display_name": "Levalbuterol Hcl",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Levalbuterol Hcl"
   },
   "levetiracetam": {
-    "display_name": "Levetiracetam",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Levetiracetam"
   },
   "levocetirizine dihydrochloride": {
-    "display_name": "Levocetirizine Dihydrochloride",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Levocetirizine Dihydrochloride"
   },
   "levofloxacin": {
-    "display_name": "Levofloxacin",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Levofloxacin"
   },
   "levonorgest-eth estrad 91-day": {
-    "display_name": "Levonorgest-Eth Estrad 91-Day",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Levonorgest-Eth Estrad 91-Day"
   },
   "levonorgestrel": {
-    "display_name": "Levonorgestrel",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Levonorgestrel"
   },
   "levonorgestrel-ethinyl estrad": {
-    "display_name": "Levonorgestrel-Ethinyl Estrad",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Levonorgestrel-Ethinyl Estrad"
   },
   "levothyroxine sodium": {
-    "display_name": "Levothyroxine Sodium",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Levothyroxine Sodium"
   },
   "levoxyl": {
-    "display_name": "Levoxyl",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Levoxyl"
   },
   "lidocaine viscous hcl": {
-    "display_name": "Lidocaine Viscous Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Lidocaine Viscous Hcl"
   },
   "linzess": {
-    "display_name": "Linzess",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Linzess"
   },
   "liothyronine sodium": {
-    "display_name": "Liothyronine Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Liothyronine Sodium"
   },
   "lisinopril": {
-    "display_name": "Lisinopril",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Lisinopril"
   },
   "lithium carbonate": {
-    "display_name": "Lithium Carbonate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Lithium Carbonate"
   },
   "lithium carbonate er": {
-    "display_name": "Lithium Carbonate Er",
     "copay": 25,
-    "covered": true
-  },
-  "loratadine": {
-    "display_name": "Loratadine",
-    "copay": 10,
-    "covered": true
-  },
-  "lorazepam": {
-    "display_name": "Lorazepam",
-    "copay": 25,
-    "covered": true
-  },
-  "loryna": {
-    "display_name": "Loryna",
-    "copay": 0,
-    "covered": true
-  },
-  "losartan potassium": {
-    "display_name": "Losartan Potassium",
-    "copay": 25,
-    "covered": true
-  },
-  "losartan potassium-hctz": {
-    "display_name": "Losartan Potassium-Hctz",
-    "copay": 25,
-    "covered": true
-  },
-  "lovastatin": {
-    "display_name": "Lovastatin",
-    "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Lithium Carbonate Er"
   },
   "lo-zumandimine": {
-    "display_name": "Lo-Zumandimine",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Lo-Zumandimine"
+  },
+  "loratadine": {
+    "copay": 10,
+    "covered": true,
+    "display_name": "Loratadine"
+  },
+  "lorazepam": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Lorazepam"
+  },
+  "loryna": {
+    "copay": 0,
+    "covered": true,
+    "display_name": "Loryna"
+  },
+  "losartan potassium": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Losartan Potassium"
+  },
+  "losartan potassium-hctz": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Losartan Potassium-Hctz"
+  },
+  "lovastatin": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Lovastatin"
   },
   "lunesta": {
-    "display_name": "Lunesta",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Lunesta"
   },
   "magnesium oxide": {
-    "display_name": "Magnesium Oxide",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Magnesium Oxide"
   },
   "meclizine hcl": {
-    "display_name": "Meclizine Hcl",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Meclizine Hcl"
   },
   "medrol": {
-    "display_name": "Medrol",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Medrol"
   },
   "medroxyprogesterone acetate": {
-    "display_name": "Medroxyprogesterone Acetate",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Medroxyprogesterone Acetate"
   },
   "meloxicam": {
-    "display_name": "Meloxicam",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Meloxicam"
   },
   "metformin hcl": {
-    "display_name": "Metformin Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Metformin Hcl"
   },
   "metformin hcl er": {
-    "display_name": "Metformin Hcl Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Metformin Hcl Er"
   },
   "metformin hcl er (mod)": {
-    "display_name": "Metformin Hcl Er (Mod)",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Metformin Hcl Er (Mod)"
   },
   "metformin hcl er (osm)": {
-    "display_name": "Metformin Hcl Er (Osm)",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Metformin Hcl Er (Osm)"
   },
   "methadone hcl": {
-    "display_name": "Methadone Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Methadone Hcl"
   },
   "methimazole": {
-    "display_name": "Methimazole",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Methimazole"
   },
   "methocarbamol": {
-    "display_name": "Methocarbamol",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Methocarbamol"
   },
   "methotrexate sodium": {
-    "display_name": "Methotrexate Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Methotrexate Sodium"
   },
   "methylphenidate hcl": {
-    "display_name": "Methylphenidate Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Methylphenidate Hcl"
   },
   "methylphenidate hcl er (cd)": {
-    "display_name": "Methylphenidate Hcl Er (Cd)",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Methylphenidate Hcl Er (Cd)"
   },
   "methylprednisolone": {
-    "display_name": "Methylprednisolone",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Methylprednisolone"
   },
   "metoclopramide hcl": {
-    "display_name": "Metoclopramide Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Metoclopramide Hcl"
   },
   "metoprolol succinate er": {
-    "display_name": "Metoprolol Succinate Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Metoprolol Succinate Er"
   },
   "metronidazole": {
-    "display_name": "Metronidazole",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Metronidazole"
   },
   "microgestin 1/20": {
-    "display_name": "Microgestin 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Microgestin 1/20"
   },
   "microgestin fe 1/20": {
-    "display_name": "Microgestin Fe 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Microgestin Fe 1/20"
   },
   "minocycline hcl": {
-    "display_name": "Minocycline Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Minocycline Hcl"
   },
   "minoxidil": {
-    "display_name": "Minoxidil",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Minoxidil"
   },
   "mirtazapine": {
-    "display_name": "Mirtazapine",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Mirtazapine"
   },
   "modafinil": {
-    "display_name": "Modafinil",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Modafinil"
   },
   "molnupiravir": {
-    "display_name": "Molnupiravir",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Molnupiravir"
   },
   "mometasone furoate": {
-    "display_name": "Mometasone Furoate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Mometasone Furoate"
   },
   "montelukast sodium": {
-    "display_name": "Montelukast Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Montelukast Sodium"
   },
   "morphine sulfate": {
-    "display_name": "Morphine Sulfate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Morphine Sulfate"
   },
   "morphine sulfate er": {
-    "display_name": "Morphine Sulfate Er",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Morphine Sulfate Er"
   },
   "moxifloxacin hcl": {
-    "display_name": "Moxifloxacin Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Moxifloxacin Hcl"
   },
   "multaq": {
-    "display_name": "Multaq",
     "copay": null,
     "covered": false,
+    "display_name": "Multaq",
     "note": "100% member responsibility"
   },
   "nadolol": {
-    "display_name": "Nadolol",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Nadolol"
   },
   "naltrexone hcl": {
-    "display_name": "Naltrexone Hcl",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Naltrexone Hcl"
   },
   "naproxen": {
-    "display_name": "Naproxen",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Naproxen"
   },
   "nature-throid": {
-    "display_name": "Nature-Throid",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Nature-Throid"
   },
   "nebivolol hcl": {
-    "display_name": "Nebivolol Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Nebivolol Hcl"
   },
   "neomycin sulfate": {
-    "display_name": "Neomycin Sulfate",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Neomycin Sulfate"
   },
   "neomycin-polymyxin-dexameth": {
-    "display_name": "Neomycin-Polymyxin-Dexameth",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Neomycin-Polymyxin-Dexameth"
   },
   "nicoderm cq": {
-    "display_name": "Nicoderm Cq",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Nicoderm Cq"
   },
   "nicotine polacrilex": {
-    "display_name": "Nicotine Polacrilex",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Nicotine Polacrilex"
   },
   "nifedipine er": {
-    "display_name": "Nifedipine Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Nifedipine Er"
   },
   "nikki": {
-    "display_name": "Nikki",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Nikki"
   },
   "nitrofurantoin macrocrystal": {
-    "display_name": "Nitrofurantoin Macrocrystal",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Nitrofurantoin Macrocrystal"
   },
   "nitroglycerin": {
-    "display_name": "Nitroglycerin",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Nitroglycerin"
   },
   "norethin ace-eth estrad-fe": {
-    "display_name": "Norethin Ace-Eth Estrad-Fe",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Norethin Ace-Eth Estrad-Fe"
   },
   "norethindrone": {
-    "display_name": "Norethindrone",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Norethindrone"
   },
   "nortrel 0.5/35 (28)": {
-    "display_name": "Nortrel 0.5/35 (28)",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Nortrel 0.5/35 (28)"
   },
   "nortrel 1/35 (28)": {
-    "display_name": "Nortrel 1/35 (28)",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Nortrel 1/35 (28)"
   },
   "nortriptyline hcl": {
-    "display_name": "Nortriptyline Hcl",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Nortriptyline Hcl"
   },
   "novolin 70/30 flexpen": {
-    "display_name": "Novolin 70/30 Flexpen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Novolin 70/30 Flexpen"
   },
   "novolin 70/30 flexpen relion": {
-    "display_name": "Novolin 70/30 Flexpen Relion",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Novolin 70/30 Flexpen Relion"
   },
   "novolin 70/30 relion": {
-    "display_name": "Novolin 70/30 Relion",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Novolin 70/30 Relion"
   },
   "novolin n flexpen": {
-    "display_name": "Novolin N Flexpen",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Novolin N Flexpen"
   },
   "novolog": {
-    "display_name": "Novolog",
     "copay": null,
     "covered": false,
+    "display_name": "Novolog",
     "note": "100% member responsibility"
   },
   "np thyroid": {
-    "display_name": "Np Thyroid",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Np Thyroid"
   },
   "nystatin": {
-    "display_name": "Nystatin",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Nystatin"
   },
   "nystatin-triamcinolone": {
-    "display_name": "Nystatin-Triamcinolone",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Nystatin-Triamcinolone"
   },
   "ocella": {
-    "display_name": "Ocella",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Ocella"
   },
   "ofloxacin": {
-    "display_name": "Ofloxacin",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Ofloxacin"
   },
   "olanzapine": {
-    "display_name": "Olanzapine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Olanzapine"
   },
   "olmesartan medoxomil": {
-    "display_name": "Olmesartan Medoxomil",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Olmesartan Medoxomil"
   },
   "olmesartan medoxomil-hctz": {
-    "display_name": "Olmesartan Medoxomil-Hctz",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Olmesartan Medoxomil-Hctz"
   },
   "olmesartan-amlodipine-hctz": {
-    "display_name": "Olmesartan-Amlodipine-Hctz",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Olmesartan-Amlodipine-Hctz"
   },
   "omega-3-acid ethyl esters": {
-    "display_name": "Omega-3-Acid Ethyl Esters",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Omega-3-Acid Ethyl Esters"
   },
   "ondansetron": {
-    "display_name": "Ondansetron",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Ondansetron"
   },
   "onetouch delica lancets": {
-    "display_name": "Onetouch Delica Lancets 30G",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Onetouch Delica Lancets 30G"
   },
   "onetouch lancets": {
-    "display_name": "Onetouch Lancets",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Onetouch Lancets"
   },
   "onetouch ultra": {
-    "display_name": "Onetouch Ultra",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Onetouch Ultra"
   },
   "onetouch ultra control": {
-    "display_name": "Onetouch Ultra Control",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Onetouch Ultra Control"
   },
   "onetouch verio": {
-    "display_name": "Onetouch Verio",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Onetouch Verio"
   },
   "onglyza": {
-    "display_name": "Onglyza",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Onglyza"
   },
   "oseltamivir phosphate": {
-    "display_name": "Oseltamivir Phosphate",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Oseltamivir Phosphate"
   },
   "oxcarbazepine": {
-    "display_name": "Oxcarbazepine",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Oxcarbazepine"
   },
   "oxybutynin chloride": {
-    "display_name": "Oxybutynin Chloride",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Oxybutynin Chloride"
   },
   "oxybutynin chloride er": {
-    "display_name": "Oxybutynin Chloride Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Oxybutynin Chloride Er"
   },
   "oxycodone hcl": {
-    "display_name": "Oxycodone Hcl",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Oxycodone Hcl"
   },
   "oxycodone-acetaminophen": {
-    "display_name": "Oxycodone-Acetaminophen",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Oxycodone-Acetaminophen"
   },
   "ozempic (1 mg/dose)": {
-    "display_name": "Ozempic (1 Mg/Dose)",
     "copay": null,
     "covered": false,
+    "display_name": "Ozempic (1 Mg/Dose)",
     "note": "100% member responsibility"
   },
   "pacerone": {
-    "display_name": "Pacerone",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Pacerone"
   },
   "pantoprazole sodium": {
-    "display_name": "Pantoprazole Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Pantoprazole Sodium"
   },
   "paroxetine hcl": {
-    "display_name": "Paroxetine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Paroxetine Hcl"
   },
   "paroxetine hcl er": {
-    "display_name": "Paroxetine Hcl Er",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Paroxetine Hcl Er"
   },
   "paxlovid": {
-    "display_name": "Paxlovid",
-    "copay": 0,
-    "covered": true
-  },
-  "penicillin v potassium": {
-    "display_name": "Penicillin V Potassium",
-    "copay": 25,
-    "covered": true
-  },
-  "phenazopyridine hcl": {
-    "display_name": "Phenazopyridine Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "phenobarbital": {
-    "display_name": "Phenobarbital",
-    "copay": 25,
-    "covered": true
-  },
-  "phentermine hcl": {
-    "display_name": "Phentermine Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "pioglitazone hcl": {
-    "display_name": "Pioglitazone Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "plan b one-step": {
-    "display_name": "Plan B One-Step",
-    "copay": 0,
-    "covered": true
-  },
-  "polymyxin b-trimethoprim": {
-    "display_name": "Polymyxin B-Trimethoprim",
-    "copay": 25,
-    "covered": true
-  },
-  "potassium chloride er": {
-    "display_name": "Potassium Chloride Er",
-    "copay": 25,
-    "covered": true
-  },
-  "potassium citrate er": {
-    "display_name": "Potassium Citrate Er",
-    "copay": 50,
-    "covered": true
-  },
-  "pramipexole dihydrochloride": {
-    "display_name": "Pramipexole Dihydrochloride",
-    "copay": 25,
-    "covered": true
-  },
-  "pramipexole dihydrochloride er": {
-    "display_name": "Pramipexole Dihydrochloride Er",
-    "copay": 100,
-    "covered": true
-  },
-  "pravastatin sodium": {
-    "display_name": "Pravastatin Sodium",
-    "copay": 25,
-    "covered": true
-  },
-  "prazosin hcl": {
-    "display_name": "Prazosin Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "prednisolone": {
-    "display_name": "Prednisolone",
-    "copay": 25,
-    "covered": true
-  },
-  "prednisolone acetate": {
-    "display_name": "Prednisolone Acetate",
-    "copay": 50,
-    "covered": true
-  },
-  "prednisolone sodium phosphate": {
-    "display_name": "Prednisolone Sodium Phosphate",
-    "copay": 100,
-    "covered": true
-  },
-  "prednisone": {
-    "display_name": "Prednisone",
-    "copay": 50,
-    "covered": true
-  },
-  "prednisone intensol": {
-    "display_name": "Prednisone Intensol",
-    "copay": 100,
-    "covered": true
-  },
-  "pregabalin": {
-    "display_name": "Pregabalin",
-    "copay": 25,
-    "covered": true
-  },
-  "premarin": {
-    "display_name": "Premarin",
-    "copay": 100,
-    "covered": true
-  },
-  "previfem": {
-    "display_name": "Previfem",
-    "copay": 0,
-    "covered": true
-  },
-  "proair hfa": {
-    "display_name": "Proair Hfa",
-    "copay": 100,
-    "covered": true
-  },
-  "procrit": {
-    "display_name": "Procrit",
-    "copay": 100,
-    "covered": true
-  },
-  "progesterone": {
-    "display_name": "Progesterone",
-    "copay": 25,
-    "covered": true
-  },
-  "progesterone micronized": {
-    "display_name": "Progesterone Micronized",
-    "copay": 100,
-    "covered": true
-  },
-  "promethazine hcl": {
-    "display_name": "Promethazine Hcl",
-    "copay": 100,
-    "covered": true
-  },
-  "promethazine-codeine": {
-    "display_name": "Promethazine-Codeine",
-    "copay": 25,
-    "covered": true
-  },
-  "promethazine-dm": {
-    "display_name": "Promethazine-Dm",
-    "copay": 50,
-    "covered": true
-  },
-  "propranolol hcl": {
-    "display_name": "Propranolol Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "propranolol hcl er": {
-    "display_name": "Propranolol Hcl Er",
-    "copay": 25,
-    "covered": true
-  },
-  "propranolol-hctz": {
-    "display_name": "Propranolol-Hctz",
-    "copay": 50,
-    "covered": true
-  },
-  "pulmicort flexhaler": {
-    "display_name": "Pulmicort Flexhaler",
-    "copay": 100,
-    "covered": true
-  },
-  "quetiapine fumarate": {
-    "display_name": "Quetiapine Fumarate",
-    "copay": 25,
-    "covered": true
-  },
-  "quetiapine fumarate er": {
-    "display_name": "Quetiapine Fumarate Er",
-    "copay": 25,
-    "covered": true
-  },
-  "quinapril hcl": {
-    "display_name": "Quinapril Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "raloxifene hcl": {
-    "display_name": "Raloxifene Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "ramipril": {
-    "display_name": "Ramipril",
-    "copay": 25,
-    "covered": true
-  },
-  "ranitidine hcl": {
-    "display_name": "Ranitidine Hcl",
-    "copay": 50,
-    "covered": true
-  },
-  "rifampin": {
-    "display_name": "Rifampin",
-    "copay": 50,
-    "covered": true
-  },
-  "risperidone": {
-    "display_name": "Risperidone",
-    "copay": 25,
-    "covered": true
-  },
-  "rizatriptan benzoate": {
-    "display_name": "Rizatriptan Benzoate",
-    "copay": 25,
-    "covered": true
-  },
-  "ropinirole hcl": {
-    "display_name": "Ropinirole Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "rosuvastatin calcium": {
-    "display_name": "Rosuvastatin Calcium",
-    "copay": 25,
-    "covered": true
-  },
-  "scopolamine": {
-    "display_name": "Scopolamine",
-    "copay": 100,
-    "covered": true
-  },
-  "segluromet": {
-    "display_name": "Segluromet",
-    "copay": 100,
-    "covered": true
-  },
-  "sertraline hcl": {
-    "display_name": "Sertraline Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "sildenafil citrate": {
-    "display_name": "Sildenafil Citrate",
-    "copay": 25,
-    "covered": true
-  },
-  "simvastatin": {
-    "display_name": "Simvastatin",
-    "copay": 25,
-    "covered": true
-  },
-  "skyrizi": {
-    "display_name": "Skyrizi",
     "copay": null,
     "covered": false,
+    "display_name": "Paxlovid",
+    "note": "100% member responsibility"
+  },
+  "penicillin v potassium": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Penicillin V Potassium"
+  },
+  "phenazopyridine hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Phenazopyridine Hcl"
+  },
+  "phenobarbital": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Phenobarbital"
+  },
+  "phentermine hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Phentermine Hcl"
+  },
+  "pioglitazone hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Pioglitazone Hcl"
+  },
+  "plan b one-step": {
+    "copay": 0,
+    "covered": true,
+    "display_name": "Plan B One-Step"
+  },
+  "polymyxin b-trimethoprim": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Polymyxin B-Trimethoprim"
+  },
+  "potassium chloride er": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Potassium Chloride Er"
+  },
+  "potassium citrate er": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Potassium Citrate Er"
+  },
+  "pramipexole dihydrochloride": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Pramipexole Dihydrochloride"
+  },
+  "pramipexole dihydrochloride er": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Pramipexole Dihydrochloride Er"
+  },
+  "pravastatin sodium": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Pravastatin Sodium"
+  },
+  "prazosin hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Prazosin Hcl"
+  },
+  "prednisolone": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Prednisolone"
+  },
+  "prednisolone acetate": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Prednisolone Acetate"
+  },
+  "prednisolone sodium phosphate": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Prednisolone Sodium Phosphate"
+  },
+  "prednisone": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Prednisone"
+  },
+  "prednisone intensol": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Prednisone Intensol"
+  },
+  "pregabalin": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Pregabalin"
+  },
+  "premarin": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Premarin"
+  },
+  "previfem": {
+    "copay": 0,
+    "covered": true,
+    "display_name": "Previfem"
+  },
+  "proair hfa": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Proair Hfa"
+  },
+  "procrit": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Procrit"
+  },
+  "progesterone": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Progesterone"
+  },
+  "progesterone micronized": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Progesterone Micronized"
+  },
+  "promethazine hcl": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Promethazine Hcl"
+  },
+  "promethazine-codeine": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Promethazine-Codeine"
+  },
+  "promethazine-dm": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Promethazine-Dm"
+  },
+  "propranolol hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Propranolol Hcl"
+  },
+  "propranolol hcl er": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Propranolol Hcl Er"
+  },
+  "propranolol-hctz": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Propranolol-Hctz"
+  },
+  "pulmicort flexhaler": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Pulmicort Flexhaler"
+  },
+  "quetiapine fumarate": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Quetiapine Fumarate"
+  },
+  "quetiapine fumarate er": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Quetiapine Fumarate Er"
+  },
+  "quinapril hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Quinapril Hcl"
+  },
+  "raloxifene hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Raloxifene Hcl"
+  },
+  "ramipril": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Ramipril"
+  },
+  "ranitidine hcl": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Ranitidine Hcl"
+  },
+  "rifampin": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Rifampin"
+  },
+  "risperidone": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Risperidone"
+  },
+  "rizatriptan benzoate": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Rizatriptan Benzoate"
+  },
+  "ropinirole hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Ropinirole Hcl"
+  },
+  "rosuvastatin calcium": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Rosuvastatin Calcium"
+  },
+  "scopolamine": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Scopolamine"
+  },
+  "segluromet": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Segluromet"
+  },
+  "sertraline hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Sertraline Hcl"
+  },
+  "sildenafil citrate": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Sildenafil Citrate"
+  },
+  "simvastatin": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Simvastatin"
+  },
+  "skyrizi": {
+    "copay": null,
+    "covered": false,
+    "display_name": "Skyrizi",
     "note": "100% member responsibility"
   },
   "slynd": {
-    "display_name": "Slynd",
-    "copay": 100,
-    "covered": true
-  },
-  "sotalol hcl": {
-    "display_name": "Sotalol Hcl",
-    "copay": 25,
-    "covered": true
-  },
-  "spiriva handihaler": {
-    "display_name": "Spiriva Handihaler",
-    "copay": 100,
-    "covered": true
-  },
-  "spironolactone": {
-    "display_name": "Spironolactone",
-    "copay": 10,
-    "covered": true
-  },
-  "spironolactone-hctz": {
-    "display_name": "Spironolactone-Hctz",
-    "copay": 25,
-    "covered": true
-  },
-  "sprintec": {
-    "display_name": "Sprintec 28",
-    "copay": 0,
-    "covered": true
-  },
-  "sronyx": {
-    "display_name": "Sronyx",
-    "copay": 0,
-    "covered": true
-  },
-  "steglatro": {
-    "display_name": "Steglatro",
-    "copay": 100,
-    "covered": true
-  },
-  "sucralfate": {
-    "display_name": "Sucralfate",
-    "copay": 50,
-    "covered": true
-  },
-  "sulfacetamide sodium": {
-    "display_name": "Sulfacetamide Sodium",
-    "copay": 50,
-    "covered": true
-  },
-  "sulfacetamide sodium-sulfur": {
-    "display_name": "Sulfacetamide Sodium-Sulfur",
-    "copay": 100,
-    "covered": true
-  },
-  "sulfacetamide-sulfur in urea": {
-    "display_name": "Sulfacetamide-Sulfur In Urea",
-    "copay": 100,
-    "covered": true
-  },
-  "sulfamethoxazole-trimethoprim": {
-    "display_name": "Sulfamethoxazole-Trimethoprim",
-    "copay": 10,
-    "covered": true
-  },
-  "sulfasalazine": {
-    "display_name": "Sulfasalazine",
-    "copay": 25,
-    "covered": true
-  },
-  "sumatriptan": {
-    "display_name": "Sumatriptan",
-    "copay": 50,
-    "covered": true
-  },
-  "sumatriptan succinate": {
-    "display_name": "Sumatriptan Succinate",
-    "copay": 25,
-    "covered": true
-  },
-  "symbicort": {
-    "display_name": "Symbicort",
-    "copay": 100,
-    "covered": true
-  },
-  "synthroid": {
-    "display_name": "Synthroid",
-    "copay": 50,
-    "covered": true
-  },
-  "tacrolimus": {
-    "display_name": "Tacrolimus",
-    "copay": 100,
-    "covered": true
-  },
-  "tadalafil (pah)": {
-    "display_name": "Tadalafil (Pah)",
-    "copay": 25,
-    "covered": true
-  },
-  "taltz": {
-    "display_name": "Taltz",
     "copay": null,
     "covered": false,
+    "display_name": "Slynd",
+    "note": "100% member responsibility"
+  },
+  "sotalol hcl": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Sotalol Hcl"
+  },
+  "spiriva handihaler": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Spiriva Handihaler"
+  },
+  "spironolactone": {
+    "copay": 10,
+    "covered": true,
+    "display_name": "Spironolactone"
+  },
+  "spironolactone-hctz": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Spironolactone-Hctz"
+  },
+  "sprintec": {
+    "copay": 0,
+    "covered": true,
+    "display_name": "Sprintec 28"
+  },
+  "sronyx": {
+    "copay": 0,
+    "covered": true,
+    "display_name": "Sronyx"
+  },
+  "steglatro": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Steglatro"
+  },
+  "sucralfate": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Sucralfate"
+  },
+  "sulfacetamide sodium": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Sulfacetamide Sodium"
+  },
+  "sulfacetamide sodium-sulfur": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Sulfacetamide Sodium-Sulfur"
+  },
+  "sulfacetamide-sulfur in urea": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Sulfacetamide-Sulfur In Urea"
+  },
+  "sulfamethoxazole-trimethoprim": {
+    "copay": 10,
+    "covered": true,
+    "display_name": "Sulfamethoxazole-Trimethoprim"
+  },
+  "sulfasalazine": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Sulfasalazine"
+  },
+  "sumatriptan": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Sumatriptan"
+  },
+  "sumatriptan succinate": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Sumatriptan Succinate"
+  },
+  "symbicort": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Symbicort"
+  },
+  "synthroid": {
+    "copay": 50,
+    "covered": true,
+    "display_name": "Synthroid"
+  },
+  "tacrolimus": {
+    "copay": 100,
+    "covered": true,
+    "display_name": "Tacrolimus"
+  },
+  "tadalafil (pah)": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Tadalafil (Pah)"
+  },
+  "taltz": {
+    "copay": null,
+    "covered": false,
+    "display_name": "Taltz",
     "note": "100% member responsibility"
   },
   "tamoxifen citrate": {
-    "display_name": "Tamoxifen Citrate",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tamoxifen Citrate"
   },
   "tamsulosin hcl": {
-    "display_name": "Tamsulosin Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Tamsulosin Hcl"
   },
   "tarina fe 1/20": {
-    "display_name": "Tarina Fe 1/20",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tarina Fe 1/20"
   },
   "telmisartan": {
-    "display_name": "Telmisartan",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Telmisartan"
   },
   "telmisartan-hctz": {
-    "display_name": "Telmisartan-Hctz",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Telmisartan-Hctz"
   },
   "terbinafine hcl": {
-    "display_name": "Terbinafine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Terbinafine Hcl"
   },
   "terconazole": {
-    "display_name": "Terconazole",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Terconazole"
   },
   "testosterone cypionate": {
-    "display_name": "Testosterone Cypionate",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Testosterone Cypionate"
   },
   "tilia fe": {
-    "display_name": "Tilia Fe",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tilia Fe"
   },
   "timolol maleate": {
-    "display_name": "Timolol Maleate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Timolol Maleate"
   },
   "timolol maleate (once-daily)": {
-    "display_name": "Timolol Maleate (Once-Daily)",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Timolol Maleate (Once-Daily)"
   },
   "tirosint": {
-    "display_name": "Tirosint",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Tirosint"
   },
   "tivicay": {
-    "display_name": "Tivicay",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Tivicay"
   },
   "tizanidine hcl": {
-    "display_name": "Tizanidine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Tizanidine Hcl"
   },
   "tobramycin": {
-    "display_name": "Tobramycin",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Tobramycin"
   },
   "tobramycin-dexamethasone": {
-    "display_name": "Tobramycin-Dexamethasone",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Tobramycin-Dexamethasone"
   },
   "topiramate": {
-    "display_name": "Topiramate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Topiramate"
   },
   "topiramate er": {
-    "display_name": "Topiramate Er",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Topiramate Er"
   },
   "toujeo solostar": {
-    "display_name": "Toujeo Solostar",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Toujeo Solostar"
   },
   "tramadol hcl": {
-    "display_name": "Tramadol Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Tramadol Hcl"
   },
   "transderm scop (1.5 mg)": {
-    "display_name": "Transderm Scop (1.5 Mg)",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Transderm Scop (1.5 Mg)"
   },
   "trazodone hcl": {
-    "display_name": "Trazodone Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Trazodone Hcl"
   },
   "tresiba": {
-    "display_name": "Tresiba",
     "copay": null,
     "covered": false,
+    "display_name": "Tresiba",
     "note": "100% member responsibility"
   },
   "tretinoin": {
-    "display_name": "Tretinoin",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Tretinoin"
   },
   "tri femynor": {
-    "display_name": "Tri Femynor",
     "copay": 0,
-    "covered": true
-  },
-  "triamcinolone acetonide": {
-    "display_name": "Triamcinolone Acetonide",
-    "copay": 10,
-    "covered": true
-  },
-  "triamterene-hctz": {
-    "display_name": "Triamterene-Hctz",
-    "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Tri Femynor"
   },
   "tri-estarylla": {
-    "display_name": "Tri-Estarylla",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tri-Estarylla"
   },
   "tri-linyah": {
-    "display_name": "Tri-Linyah",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tri-Linyah"
   },
   "tri-lo-estarylla": {
-    "display_name": "Tri-Lo-Estarylla",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tri-Lo-Estarylla"
   },
   "tri-lo-marzia": {
-    "display_name": "Tri-Lo-Marzia",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tri-Lo-Marzia"
   },
   "tri-lo-sprintec": {
-    "display_name": "Tri-Lo-Sprintec",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tri-Lo-Sprintec"
   },
   "tri-previfem": {
-    "display_name": "Tri-Previfem",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tri-Previfem"
   },
   "tri-sprintec": {
-    "display_name": "Tri-Sprintec",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Tri-Sprintec"
+  },
+  "triamcinolone acetonide": {
+    "copay": 10,
+    "covered": true,
+    "display_name": "Triamcinolone Acetonide"
+  },
+  "triamterene-hctz": {
+    "copay": 25,
+    "covered": true,
+    "display_name": "Triamterene-Hctz"
   },
   "trulicity": {
-    "display_name": "Trulicity",
     "copay": null,
     "covered": false,
+    "display_name": "Trulicity",
     "note": "100% member responsibility"
   },
   "ubrelvy": {
-    "display_name": "Ubrelvy",
     "copay": null,
     "covered": false,
+    "display_name": "Ubrelvy",
     "note": "100% member responsibility"
   },
   "valacyclovir hcl": {
-    "display_name": "Valacyclovir Hcl",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Valacyclovir Hcl"
   },
   "valproic acid": {
-    "display_name": "Valproic Acid",
     "copay": 50,
-    "covered": true
+    "covered": true,
+    "display_name": "Valproic Acid"
   },
   "valsartan": {
-    "display_name": "Valsartan",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Valsartan"
   },
   "valsartan-hydrochlorothiazide": {
-    "display_name": "Valsartan-Hydrochlorothiazide",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Valsartan-Hydrochlorothiazide"
   },
   "valtrex": {
-    "display_name": "Valtrex",
     "copay": null,
     "covered": false,
+    "display_name": "Valtrex",
     "note": "100% member responsibility"
   },
   "vancomycin hcl": {
-    "display_name": "Vancomycin Hcl",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Vancomycin Hcl"
   },
   "varenicline tartrate": {
-    "display_name": "Varenicline Tartrate",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Varenicline Tartrate"
   },
   "venlafaxine hcl": {
-    "display_name": "Venlafaxine Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Venlafaxine Hcl"
   },
   "venlafaxine hcl er": {
-    "display_name": "Venlafaxine Hcl Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Venlafaxine Hcl Er"
   },
   "ventolin hfa": {
-    "display_name": "Ventolin Hfa",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Ventolin Hfa"
   },
   "verapamil hcl": {
-    "display_name": "Verapamil Hcl",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Verapamil Hcl"
   },
   "verapamil hcl er": {
-    "display_name": "Verapamil Hcl Er",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Verapamil Hcl Er"
   },
   "viagra": {
-    "display_name": "Viagra",
     "copay": null,
     "covered": false,
+    "display_name": "Viagra",
     "note": "100% member responsibility"
   },
   "viberzi": {
-    "display_name": "Viberzi",
     "copay": null,
     "covered": false,
+    "display_name": "Viberzi",
     "note": "100% member responsibility"
   },
   "vitamin d (ergocalciferol)": {
-    "display_name": "Vitamin D (Ergocalciferol)",
     "copay": 10,
-    "covered": true
+    "covered": true,
+    "display_name": "Vitamin D (Ergocalciferol)"
   },
   "vivelle-dot": {
-    "display_name": "Vivelle-Dot",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Vivelle-Dot"
   },
   "voltaren": {
-    "display_name": "Voltaren",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Voltaren"
   },
   "warfarin sodium": {
-    "display_name": "Warfarin Sodium",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Warfarin Sodium"
   },
   "wixela inhub": {
-    "display_name": "Wixela Inhub",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Wixela Inhub"
   },
   "xarelto": {
-    "display_name": "Xarelto",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Xarelto"
   },
   "xarelto starter pack": {
-    "display_name": "Xarelto Starter Pack",
     "copay": null,
     "covered": false,
+    "display_name": "Xarelto Starter Pack",
     "note": "100% member responsibility"
   },
   "xeljanz": {
-    "display_name": "Xeljanz",
     "copay": null,
     "covered": false,
+    "display_name": "Xeljanz",
     "note": "100% member responsibility"
   },
   "xigduo xr": {
-    "display_name": "Xigduo Xr",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Xigduo Xr"
   },
   "xolair": {
-    "display_name": "Xolair",
     "copay": null,
     "covered": false,
+    "display_name": "Xolair",
     "note": "100% member responsibility"
   },
   "xopenex hfa": {
-    "display_name": "Xopenex Hfa",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Xopenex Hfa"
   },
   "xulane": {
-    "display_name": "Xulane",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Xulane"
   },
   "yaz": {
-    "display_name": "Yaz",
     "copay": 0,
-    "covered": true
+    "covered": true,
+    "display_name": "Yaz"
   },
   "zaleplon": {
-    "display_name": "Zaleplon",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Zaleplon"
   },
   "zenpep": {
-    "display_name": "Zenpep",
     "copay": 100,
-    "covered": true
+    "covered": true,
+    "display_name": "Zenpep"
   },
   "zithromax z-pak": {
-    "display_name": "Zithromax Z-Pak",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Zithromax Z-Pak"
   },
   "zolmitriptan": {
-    "display_name": "Zolmitriptan",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Zolmitriptan"
   },
   "zolpidem tartrate": {
-    "display_name": "Zolpidem Tartrate",
     "copay": 25,
-    "covered": true
+    "covered": true,
+    "display_name": "Zolpidem Tartrate"
   }
 }
