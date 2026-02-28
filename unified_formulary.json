@@ -199,7 +199,10 @@
     "name": "Accutane",
     "search": "accutane",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -421,7 +424,10 @@
     "name": "Adapalene-Benzoyl Peroxide",
     "search": "adapalene-benzoyl peroxide",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -509,7 +515,10 @@
     "name": "Adlyxin Starter Pack",
     "search": "adlyxin",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -522,7 +531,10 @@
     "name": "Admelog",
     "search": "admelog",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -595,7 +607,10 @@
     "name": "Airduo Respiclick 113/14",
     "search": "airduo respiclick",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -622,7 +637,10 @@
     "name": "Albendazole",
     "search": "albendazole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -694,7 +712,10 @@
     "name": "Alfuzosin Hcl Er",
     "search": "alfuzosin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -721,7 +742,10 @@
     "name": "Alogliptin-Metformin Hcl",
     "search": "alogliptin-metformin",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -778,7 +802,10 @@
     "name": "Alprazolam",
     "search": "alprazolam xanax alprazolam",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -835,7 +862,10 @@
     "name": "Amantadine Hcl",
     "search": "amantadine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -847,7 +877,10 @@
     "name": "Amethia Lo",
     "search": "amethia lo",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -889,7 +922,10 @@
     "name": "Amiodarone Hcl",
     "search": "amiodarone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -901,7 +937,10 @@
     "name": "Amitriptyline Hcl",
     "search": "amitriptyline",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -913,7 +952,10 @@
     "name": "Amlodipine Besy-Benazepril Hcl",
     "search": "amlodipine besy-benazepril",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -925,7 +967,10 @@
     "name": "Amlodipine Besylate",
     "search": "amlodipine besylate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -937,7 +982,10 @@
     "name": "Amlodipine Besylate-Valsartan",
     "search": "amlodipine besylate-valsartan",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -949,7 +997,10 @@
     "name": "Amlodipine-Olmesartan",
     "search": "amlodipine-olmesartan",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -991,7 +1042,10 @@
     "name": "Amoxicillin-Pot Clavulanate",
     "search": "amoxicillin-pot clavulanate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -1048,7 +1102,10 @@
     "name": "Anastrozole",
     "search": "anastrozole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -1060,7 +1117,10 @@
     "name": "Androderm",
     "search": "androderm",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -1133,7 +1193,10 @@
     "name": "Anucort-Hc",
     "search": "anucort-hc",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -1250,7 +1313,10 @@
     "name": "Apri",
     "search": "apri",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -1517,7 +1583,10 @@
     "name": "Asmanex (30 Metered Doses)",
     "search": "asmanex (30 metered doses)",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -1589,7 +1658,10 @@
     "name": "Atenolol-Chlorthalidone",
     "search": "atenolol-chlorthalidone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -1631,7 +1703,10 @@
     "name": "Atorvastatin Calcium",
     "search": "atorvastatin calcium",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -1733,7 +1808,10 @@
     "name": "Aurovela Fe 1/20",
     "search": "aurovela fe",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -1895,7 +1973,10 @@
     "name": "Aviane",
     "search": "aviane",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -1967,7 +2048,10 @@
     "name": "Azathioprine",
     "search": "azathioprine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -1979,7 +2063,10 @@
     "name": "Azelastine Hcl",
     "search": "azelastine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -1991,7 +2078,10 @@
     "name": "Azelastine-Fluticasone",
     "search": "azelastine-fluticasone",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -2003,7 +2093,10 @@
     "name": "Azithromycin",
     "search": "azithromycin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -2030,7 +2123,10 @@
     "name": "Azurette",
     "search": "azurette",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -2162,7 +2258,10 @@
     "name": "Basaglar Kwikpen",
     "search": "basaglar kwikpen",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -2354,7 +2453,10 @@
     "name": "Benazepril-Hydrochlorothiazide",
     "search": "benazepril-hydrochlorothiazide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -2366,7 +2468,10 @@
     "name": "Benicar",
     "search": "benicar",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -2423,7 +2528,10 @@
     "name": "Benzonatate",
     "search": "benzonatate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -2435,7 +2543,10 @@
     "name": "Benzoyl Peroxide Wash",
     "search": "benzoyl peroxide wash",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -2447,7 +2558,10 @@
     "name": "Benztropine Mesylate",
     "search": "benztropine mesylate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -2474,7 +2588,10 @@
     "name": "Besivance",
     "search": "besivance",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -2516,7 +2633,10 @@
     "name": "Betamethasone Dipropionate Aug",
     "search": "betamethasone dipropionate aug",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -2634,7 +2754,10 @@
     "name": "Bimatoprost",
     "search": "bimatoprost",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -2706,7 +2829,10 @@
     "name": "Bisoprolol Fumarate",
     "search": "bisoprolol fumarate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -2718,7 +2844,10 @@
     "name": "Bisoprolol-Hydrochlorothiazide",
     "search": "bisoprolol-hydrochlorothiazide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -2730,7 +2859,10 @@
     "name": "Blisovi Fe 1/20",
     "search": "blisovi fe",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -2847,7 +2979,10 @@
     "name": "Breztri Aerosphere",
     "search": "breztri aerosphere",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -2874,7 +3009,10 @@
     "name": "Brilinta",
     "search": "brilinta",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -2946,7 +3084,10 @@
     "name": "Budesonide",
     "search": "budesonide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -2958,7 +3099,10 @@
     "name": "Budesonide-Formoterol Fumarate",
     "search": "budesonide-formoterol fumarate",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -2970,7 +3114,10 @@
     "name": "Bumetanide",
     "search": "bumetanide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3012,7 +3159,10 @@
     "name": "Bupropion Hcl",
     "search": "bupropion wellbutrin bupropion",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3024,7 +3174,10 @@
     "name": "Bupropion Hcl Er (Sr)",
     "search": "bupropion (sr)",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3036,7 +3189,10 @@
     "name": "Bupropion Hcl Er (Xl)",
     "search": "bupropion (xl)",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3048,7 +3204,10 @@
     "name": "Buspirone Hcl",
     "search": "buspirone buspar buspirone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3090,7 +3249,10 @@
     "name": "Butalbital-Apap-Caffeine",
     "search": "butalbital-apap-caffeine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3132,7 +3294,10 @@
     "name": "Bydureon",
     "search": "bydureon",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -3145,7 +3310,10 @@
     "name": "Byetta 5 Mcg Pen",
     "search": "byetta",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -3173,7 +3341,10 @@
     "name": "Bystolic",
     "search": "bystolic",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -3290,7 +3461,10 @@
     "name": "Calcitriol",
     "search": "calcitriol",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3347,7 +3521,10 @@
     "name": "Camila",
     "search": "camila",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -3359,7 +3536,10 @@
     "name": "Camrese Lo",
     "search": "camrese lo",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -3461,7 +3641,10 @@
     "name": "Captopril-Hydrochlorothiazide",
     "search": "captopril-hydrochlorothiazide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -3548,7 +3731,10 @@
     "name": "Carbidopa-Levodopa",
     "search": "carbidopa-levodopa",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3635,7 +3821,10 @@
     "name": "Carisoprodol",
     "search": "carisoprodol",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3662,7 +3851,10 @@
     "name": "Cartia Xt",
     "search": "cartia xt",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3749,7 +3941,10 @@
     "name": "Cefditoren Pivoxil",
     "search": "cefditoren pivoxil",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -3761,7 +3956,10 @@
     "name": "Cefixime",
     "search": "cefixime",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -3773,7 +3971,10 @@
     "name": "Cefprozil",
     "search": "cefprozil",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3785,7 +3986,10 @@
     "name": "Ceftriaxone Sodium",
     "search": "ceftriaxone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3797,7 +4001,10 @@
     "name": "Cefuroxime Axetil",
     "search": "cefuroxime axetil",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3809,7 +4016,10 @@
     "name": "Celecoxib",
     "search": "celecoxib",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3866,7 +4076,10 @@
     "name": "Cephalexin",
     "search": "cephalexin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -3938,7 +4151,10 @@
     "name": "Cetirizine Hcl",
     "search": "cetirizine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -4070,7 +4286,10 @@
     "name": "Chlorthalidone",
     "search": "chlorthalidone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -4172,7 +4391,10 @@
     "name": "Cimetidine",
     "search": "cimetidine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -4259,7 +4481,10 @@
     "name": "Ciprofloxacin-Dexamethasone",
     "search": "ciprofloxacin-dexamethasone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -4271,7 +4496,10 @@
     "name": "Citalopram Hydrobromide",
     "search": "citalopram hydrobromide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -4313,7 +4541,10 @@
     "name": "Climara",
     "search": "climara",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -4340,7 +4571,10 @@
     "name": "Clindamycin Hcl",
     "search": "clindamycin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -4367,7 +4601,10 @@
     "name": "Clindamycin Phos-Benzoyl Perox",
     "search": "clindamycin phos-benzoyl perox",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -4379,7 +4616,10 @@
     "name": "Clindamycin Phosphate",
     "search": "clindamycin phosphate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -4451,7 +4691,10 @@
     "name": "Clonidine Hcl",
     "search": "clonidine clonidine clonidine kapvay clonidine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -4478,7 +4721,10 @@
     "name": "Clopidogrel Bisulfate",
     "search": "clopidogrel bisulfate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -4490,7 +4736,10 @@
     "name": "Clotrimazole",
     "search": "clotrimazole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -4502,7 +4751,10 @@
     "name": "Clotrimazole-Betamethasone",
     "search": "clotrimazole-betamethasone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -4649,7 +4901,10 @@
     "name": "Colchicine",
     "search": "colchicine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -4706,7 +4961,10 @@
     "name": "Combigan",
     "search": "combigan",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -4733,7 +4991,10 @@
     "name": "Combivent Respimat",
     "search": "combivent respimat",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -4880,7 +5141,10 @@
     "name": "Coreg",
     "search": "coreg",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -4997,7 +5261,10 @@
     "name": "Crestor",
     "search": "crestor crestor rosuvastatin",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -5039,7 +5306,10 @@
     "name": "Cryselle-28",
     "search": "cryselle-28",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -5081,7 +5351,10 @@
     "name": "Cyanocobalamin",
     "search": "cyanocobalamin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -5093,7 +5366,10 @@
     "name": "Cyclobenzaprine Hcl",
     "search": "cyclobenzaprine flexeril cyclobenzaprine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -5240,7 +5516,10 @@
     "name": "Cytomel",
     "search": "cytomel",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -5252,7 +5531,10 @@
     "name": "Cytotec",
     "search": "cytotec",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -5595,7 +5877,10 @@
     "name": "Depo-Subq Provera 104",
     "search": "depo-subq provera",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -5622,7 +5907,10 @@
     "name": "Desloratadine",
     "search": "desloratadine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -5649,7 +5937,10 @@
     "name": "Desmopressin Acetate",
     "search": "desmopressin acetate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -5691,7 +5982,10 @@
     "name": "Desogestrel-Ethinyl Estradiol",
     "search": "desogestrel-ethinyl estradiol",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -5718,7 +6012,10 @@
     "name": "Desvenlafaxine Succinate Er",
     "search": "desvenlafaxine succinate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -5760,7 +6057,10 @@
     "name": "Dexamethasone Intensol",
     "search": "dexamethasone intensol",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -5787,7 +6087,10 @@
     "name": "Dexmethylphenidate Hcl Er",
     "search": "dexmethylphenidate focalin dexmethylphenidate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -5859,7 +6162,10 @@
     "name": "Diazepam",
     "search": "diazepam valium diazepam",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -5886,7 +6192,10 @@
     "name": "Diclofenac Potassium",
     "search": "diclofenac potassium",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -5913,7 +6222,10 @@
     "name": "Dicloxacillin Sodium",
     "search": "dicloxacillin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -6030,7 +6342,10 @@
     "name": "Diovan",
     "search": "diovan",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -6342,7 +6657,10 @@
     "name": "Dotti",
     "search": "dotti",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -6369,7 +6687,10 @@
     "name": "Doxazosin Mesylate",
     "search": "doxazosin mesylate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -6396,7 +6717,10 @@
     "name": "Doxycycline Hyclate",
     "search": "doxycycline hyclate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -6408,7 +6732,10 @@
     "name": "Doxycycline Monohydrate",
     "search": "doxycycline monohydrate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -6540,7 +6867,10 @@
     "name": "Duloxetine Hcl",
     "search": "duloxetine cymbalta duloxetine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -6597,7 +6927,10 @@
     "name": "Dutasteride",
     "search": "dutasteride",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -6834,7 +7167,10 @@
     "name": "Eliquis Dvt/Pe Starter Pack",
     "search": "eliquis dvt/pe",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -6877,7 +7213,10 @@
     "name": "Eluryng",
     "search": "eluryng",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -7069,7 +7408,10 @@
     "name": "Emtricitabine-Tenofovir Df",
     "search": "emtricitabine-tenofovir df",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -7111,7 +7453,10 @@
     "name": "Enalapril Maleate",
     "search": "enalapril maleate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -7274,7 +7619,10 @@
     "name": "Enskyce",
     "search": "enskyce",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -7346,7 +7694,10 @@
     "name": "Entresto",
     "search": "entresto",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -7628,7 +7979,10 @@
     "name": "Errin",
     "search": "errin",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -7685,7 +8039,10 @@
     "name": "Erythromycin Base",
     "search": "erythromycin base",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -7757,7 +8114,10 @@
     "name": "Escitalopram Oxalate",
     "search": "escitalopram oxalate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -7769,7 +8129,10 @@
     "name": "Esomeprazole Magnesium",
     "search": "esomeprazole magnesium",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -7946,7 +8309,10 @@
     "name": "Estrogel",
     "search": "estrogel",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -7973,7 +8339,10 @@
     "name": "Eszopiclone",
     "search": "eszopiclone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -8090,7 +8459,10 @@
     "name": "Euthyrox",
     "search": "euthyrox",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -8177,7 +8549,10 @@
     "name": "Ezetimibe",
     "search": "ezetimibe",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -8189,7 +8564,10 @@
     "name": "Ezetimibe-Simvastatin",
     "search": "ezetimibe-simvastatin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -8201,7 +8579,10 @@
     "name": "Famciclovir",
     "search": "famciclovir",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -8213,7 +8594,10 @@
     "name": "Famotidine",
     "search": "famotidine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -8315,7 +8699,10 @@
     "name": "Femynor",
     "search": "femynor",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -8387,7 +8774,10 @@
     "name": "Ferrous Sulfate",
     "search": "ferrous sulfate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -8414,7 +8804,10 @@
     "name": "Fexofenadine Hcl",
     "search": "fexofenadine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -8516,7 +8909,10 @@
     "name": "Finasteride",
     "search": "finasteride",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -8603,7 +8999,10 @@
     "name": "Flecainide Acetate",
     "search": "flecainide acetate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -8615,7 +9014,10 @@
     "name": "Flonase Allergy Relief",
     "search": "flonase allergy relief",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -8642,7 +9044,10 @@
     "name": "Fluconazole",
     "search": "fluconazole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -8804,7 +9209,10 @@
     "name": "Fluticasone Propionate",
     "search": "fluticasone propionate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -8861,7 +9269,10 @@
     "name": "Fluvoxamine Maleate",
     "search": "fluvoxamine maleate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -8888,7 +9299,10 @@
     "name": "Folic Acid",
     "search": "folic acid",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -9095,7 +9509,10 @@
     "name": "Furosemide",
     "search": "furosemide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -9242,7 +9659,10 @@
     "name": "Gemfibrozil",
     "search": "gemfibrozil",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -9284,7 +9704,10 @@
     "name": "Gianvi",
     "search": "gianvi",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -9386,7 +9809,10 @@
     "name": "Glimepiride",
     "search": "glimepiride",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -9398,7 +9824,10 @@
     "name": "Glipizide",
     "search": "glipizide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -9440,7 +9869,10 @@
     "name": "Glucagon Emergency",
     "search": "glucagon emergency",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -9572,7 +10004,10 @@
     "name": "Griseofulvin Microsize",
     "search": "griseofulvin microsize",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -9584,7 +10019,10 @@
     "name": "Guaifenesin-Codeine",
     "search": "guaifenesin-codeine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -9716,7 +10154,10 @@
     "name": "Hailey Fe 1/20",
     "search": "hailey fe",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -9728,7 +10169,10 @@
     "name": "Halobetasol Propionate",
     "search": "halobetasol propionate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -9740,7 +10184,10 @@
     "name": "Haloperidol",
     "search": "haloperidol",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -9782,7 +10229,10 @@
     "name": "Heather",
     "search": "heather",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -9944,7 +10394,10 @@
     "name": "Humalog Junior Kwikpen",
     "search": "humalog junior kwikpen",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -9971,7 +10424,10 @@
     "name": "Humalog Mix 50/50",
     "search": "humalog mix",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -9998,7 +10454,10 @@
     "name": "Humira Pen",
     "search": "humira",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -10011,7 +10470,10 @@
     "name": "Humulin 70/30",
     "search": "humulin",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -10068,7 +10530,10 @@
     "name": "Humulin R U-500 Kwikpen",
     "search": "humulin r u-500 kwikpen",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -10125,7 +10590,10 @@
     "name": "Hydralazine Hcl",
     "search": "hydralazine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -10137,7 +10605,10 @@
     "name": "Hydrochlorothiazide",
     "search": "hydrochlorothiazide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -10194,7 +10665,10 @@
     "name": "Hydrocortisone Butyrate",
     "search": "hydrocortisone butyrate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -10252,7 +10726,10 @@
     "name": "Hydroxychloroquine Sulfate",
     "search": "hydroxychloroquine sulfate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -10279,7 +10756,10 @@
     "name": "Hydroxyzine Hcl",
     "search": "hydroxyzine hydroxyzine hydroxyzine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -10306,7 +10786,10 @@
     "name": "Hyoscyamine Sulfate",
     "search": "hyoscyamine sulfate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -10468,7 +10951,10 @@
     "name": "Imipramine Hcl",
     "search": "imipramine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -10540,7 +11026,10 @@
     "name": "Incassia",
     "search": "incassia",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -10582,7 +11071,10 @@
     "name": "Indapamide",
     "search": "indapamide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -10834,7 +11326,10 @@
     "name": "Insulin Lispro (1 Unit Dial)",
     "search": "insulin lispro (1 unit dial)",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -11086,7 +11581,10 @@
     "name": "Ipratropium Bromide",
     "search": "ipratropium bromide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -11098,7 +11596,10 @@
     "name": "Ipratropium-Albuterol",
     "search": "ipratropium-albuterol",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -11125,7 +11626,10 @@
     "name": "Irbesartan",
     "search": "irbesartan",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -11137,7 +11641,10 @@
     "name": "Irbesartan-Hydrochlorothiazide",
     "search": "irbesartan-hydrochlorothiazide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -11194,7 +11701,10 @@
     "name": "Isibloom",
     "search": "isibloom",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -11221,7 +11731,10 @@
     "name": "Isoniazid",
     "search": "isoniazid",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -11368,7 +11881,10 @@
     "name": "Ivermectin",
     "search": "ivermectin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -11560,7 +12076,10 @@
     "name": "Junel 1/20",
     "search": "junel",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -11572,7 +12091,10 @@
     "name": "Junel Fe 1/20",
     "search": "junel fe",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -11644,7 +12166,10 @@
     "name": "Kapspargo Sprinkle",
     "search": "kapspargo sprinkle",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -11656,7 +12181,10 @@
     "name": "Kelnor 1/35",
     "search": "kelnor",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -11698,7 +12226,10 @@
     "name": "Ketoconazole",
     "search": "ketoconazole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -11740,7 +12271,10 @@
     "name": "Ketorolac Tromethamine",
     "search": "ketorolac tromethamine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -11872,7 +12406,10 @@
     "name": "Kombiglyze Xr",
     "search": "kombiglyze",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -11959,7 +12496,10 @@
     "name": "Labetalol Hcl",
     "search": "labetalol",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -12001,7 +12541,10 @@
     "name": "Lamotrigine",
     "search": "lamotrigine lamictal lamotrigine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -12133,7 +12676,10 @@
     "name": "Lansoprazole",
     "search": "lansoprazole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -12145,7 +12691,10 @@
     "name": "Lantus",
     "search": "lantus",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -12172,7 +12721,10 @@
     "name": "Larin 1/20",
     "search": "larin",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -12184,7 +12736,10 @@
     "name": "Larin Fe 1/20",
     "search": "larin fe",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -12226,7 +12781,10 @@
     "name": "Latanoprost",
     "search": "latanoprost",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -12343,7 +12901,10 @@
     "name": "Lessina",
     "search": "lessina",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -12535,7 +13096,10 @@
     "name": "Levocetirizine Dihydrochloride",
     "search": "levocetirizine dihydrochloride",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -12592,7 +13156,10 @@
     "name": "Levonorgest-Eth Estrad 91-Day",
     "search": "levonorgest-eth estrad",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -12604,7 +13171,10 @@
     "name": "Levonorgestrel",
     "search": "levonorgestrel",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -12646,7 +13216,10 @@
     "name": "Levonorgestrel-Ethinyl Estrad",
     "search": "levonorgestrel-ethinyl estrad",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -12673,7 +13246,10 @@
     "name": "Levoxyl",
     "search": "levoxyl",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -12685,7 +13261,10 @@
     "name": "Lidocaine Viscous Hcl",
     "search": "lidocaine viscous",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -12742,7 +13321,10 @@
     "name": "Linzess",
     "search": "linzess",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -12754,7 +13336,10 @@
     "name": "Liothyronine Sodium",
     "search": "liothyronine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -12796,7 +13381,10 @@
     "name": "Lisinopril",
     "search": "lisinopril",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -12913,7 +13501,10 @@
     "name": "Lo-Zumandimine",
     "search": "lo-zumandimine",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -13045,7 +13636,10 @@
     "name": "Loratadine",
     "search": "loratadine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -13057,7 +13651,10 @@
     "name": "Lorazepam",
     "search": "lorazepam ativan lorazepam",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -13099,7 +13696,10 @@
     "name": "Loryna",
     "search": "loryna",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -13111,7 +13711,10 @@
     "name": "Losartan Potassium",
     "search": "losartan potassium",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -13123,7 +13726,10 @@
     "name": "Losartan Potassium-Hctz",
     "search": "losartan potassium-hctz",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -13270,7 +13876,10 @@
     "name": "Lunesta",
     "search": "lunesta",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -13447,7 +14056,10 @@
     "name": "Magnesium Oxide",
     "search": "magnesium oxide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -13669,7 +14281,10 @@
     "name": "Meclizine Hcl",
     "search": "meclizine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -13696,7 +14311,10 @@
     "name": "Medroxyprogesterone Acetate",
     "search": "medroxyprogesterone acetate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -13783,7 +14401,10 @@
     "name": "Meloxicam",
     "search": "meloxicam",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -14065,7 +14686,10 @@
     "name": "Metformin Hcl",
     "search": "metformin glucophage metformin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -14077,7 +14701,10 @@
     "name": "Metformin Hcl Er (Mod)",
     "search": "metformin (mod)",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -14089,7 +14716,10 @@
     "name": "Metformin Hcl Er (Osm)",
     "search": "metformin (osm)",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -14146,7 +14776,10 @@
     "name": "Methimazole",
     "search": "methimazole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -14278,7 +14911,10 @@
     "name": "Methylphenidate Hcl Er (Cd)",
     "search": "methylphenidate (cd)",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -14350,7 +14986,10 @@
     "name": "Metoprolol Succinate Er",
     "search": "metoprolol succinate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -14377,7 +15016,10 @@
     "name": "Metronidazole",
     "search": "metronidazole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -14419,7 +15061,10 @@
     "name": "Microgestin 1/20",
     "search": "microgestin",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -14431,7 +15076,10 @@
     "name": "Microgestin Fe 1/20",
     "search": "microgestin fe",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -14593,7 +15241,10 @@
     "name": "Minocycline Hcl",
     "search": "minocycline",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -14605,7 +15256,10 @@
     "name": "Minoxidil",
     "search": "minoxidil",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -14677,7 +15331,10 @@
     "name": "Mirtazapine",
     "search": "mirtazapine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -14779,7 +15436,10 @@
     "name": "Modafinil",
     "search": "modafinil",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -14791,7 +15451,10 @@
     "name": "Molnupiravir",
     "search": "molnupiravir",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -14818,7 +15481,10 @@
     "name": "Mometasone Furoate",
     "search": "mometasone furoate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -14905,7 +15571,10 @@
     "name": "Morphine Sulfate",
     "search": "morphine sulfate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -15098,7 +15767,10 @@
     "name": "Nadolol",
     "search": "nadolol",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -15290,7 +15962,10 @@
     "name": "Nature-Throid",
     "search": "nature-throid",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -15317,7 +15992,10 @@
     "name": "Nebivolol Hcl",
     "search": "nebivolol",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -15374,7 +16052,10 @@
     "name": "Neomycin Sulfate",
     "search": "neomycin sulfate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -15386,7 +16067,10 @@
     "name": "Neomycin-Polymyxin-Dexameth",
     "search": "neomycin-polymyxin-dexameth",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -15533,7 +16217,10 @@
     "name": "Nicoderm Cq",
     "search": "nicoderm cq",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -15545,7 +16232,10 @@
     "name": "Nicotine Polacrilex",
     "search": "nicotine polacrilex",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -15557,7 +16247,10 @@
     "name": "Nifedipine Er",
     "search": "nifedipine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -15584,7 +16277,10 @@
     "name": "Nikki",
     "search": "nikki",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -15746,7 +16442,10 @@
     "name": "Nitrofurantoin Macrocrystal",
     "search": "nitrofurantoin macrocrystal",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -15788,7 +16487,10 @@
     "name": "Norethin Ace-Eth Estrad-Fe",
     "search": "norethin ace-eth estrad-fe",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -15950,7 +16652,10 @@
     "name": "Nortrel 0.5/35 (28)",
     "search": "nortrel",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -15962,7 +16667,10 @@
     "name": "Nortriptyline Hcl",
     "search": "nortriptyline",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -15974,7 +16682,10 @@
     "name": "Novolin 70/30 Flexpen",
     "search": "novolin",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -16152,7 +16863,10 @@
     "name": "Np Thyroid",
     "search": "np thyroid",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -16254,7 +16968,10 @@
     "name": "Nystatin-Triamcinolone",
     "search": "nystatin-triamcinolone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -16266,7 +16983,10 @@
     "name": "Ocella",
     "search": "ocella",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -16518,7 +17238,10 @@
     "name": "Olmesartan Medoxomil-Hctz",
     "search": "olmesartan medoxomil-hctz",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -16530,7 +17253,10 @@
     "name": "Olmesartan-Amlodipine-Hctz",
     "search": "olmesartan-amlodipine-hctz",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -16602,7 +17328,10 @@
     "name": "Omega-3-Acid Ethyl Esters",
     "search": "omega-3-acid ethyl esters",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -16629,7 +17358,10 @@
     "name": "Ondansetron",
     "search": "ondansetron",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -16656,7 +17388,10 @@
     "name": "Onetouch Delica Lancets 30G",
     "search": "onetouch delica lancets",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -16668,7 +17403,10 @@
     "name": "Onetouch Lancets",
     "search": "onetouch lancets",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -16680,7 +17418,10 @@
     "name": "Onetouch Ultra",
     "search": "onetouch ultra",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -16692,7 +17433,10 @@
     "name": "Onetouch Ultra Control",
     "search": "onetouch ultra control",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -16704,7 +17448,10 @@
     "name": "Onetouch Verio",
     "search": "onetouch verio",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -16716,7 +17463,10 @@
     "name": "Onglyza",
     "search": "onglyza",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -16953,7 +17703,10 @@
     "name": "Oseltamivir Phosphate",
     "search": "oseltamivir phosphate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -17025,7 +17778,10 @@
     "name": "Oxcarbazepine",
     "search": "oxcarbazepine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -17052,7 +17808,10 @@
     "name": "Oxybutynin Chloride",
     "search": "oxybutynin chloride",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -17079,7 +17838,10 @@
     "name": "Oxycodone-Acetaminophen",
     "search": "oxycodone-acetaminophen",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -17121,7 +17883,10 @@
     "name": "Ozempic (1 Mg/Dose)",
     "search": "ozempic (1 mg/dose)",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -17134,7 +17899,10 @@
     "name": "Pacerone",
     "search": "pacerone",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -17236,7 +18004,10 @@
     "name": "Paroxetine Hcl",
     "search": "paroxetine paxil paroxetine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -17578,7 +18349,10 @@
     "name": "Penicillin V Potassium",
     "search": "penicillin v potassium",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -17725,7 +18499,10 @@
     "name": "Phenazopyridine Hcl",
     "search": "phenazopyridine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -17872,7 +18649,10 @@
     "name": "Plan B One-Step",
     "search": "plan b one-step",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -17944,7 +18724,10 @@
     "name": "Polymyxin B-Trimethoprim",
     "search": "polymyxin b-trimethoprim",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18031,7 +18814,10 @@
     "name": "Potassium Chloride Er",
     "search": "potassium chloride",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18043,7 +18829,10 @@
     "name": "Potassium Citrate Er",
     "search": "potassium citrate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -18100,7 +18889,10 @@
     "name": "Pramipexole Dihydrochloride",
     "search": "pramipexole dihydrochloride",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18112,7 +18904,10 @@
     "name": "Pravastatin Sodium",
     "search": "pravastatin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18124,7 +18919,10 @@
     "name": "Prazosin Hcl",
     "search": "prazosin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18151,7 +18949,10 @@
     "name": "Prednisolone Acetate",
     "search": "prednisolone acetate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -18163,7 +18964,10 @@
     "name": "Prednisolone Sodium Phosphate",
     "search": "prednisolone phosphate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -18190,7 +18994,10 @@
     "name": "Prednisone Intensol",
     "search": "prednisone intensol",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -18202,7 +19009,10 @@
     "name": "Pregabalin",
     "search": "pregabalin lyrica pregabalin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18334,7 +19144,10 @@
     "name": "Previfem",
     "search": "previfem",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -18451,7 +19264,10 @@
     "name": "Proair Hfa",
     "search": "proair",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -18538,7 +19354,10 @@
     "name": "Progesterone Micronized",
     "search": "progesterone micronized",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -18580,7 +19399,10 @@
     "name": "Promethazine-Codeine",
     "search": "promethazine-codeine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18592,7 +19414,10 @@
     "name": "Promethazine-Dm",
     "search": "promethazine-dm",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -18634,7 +19459,10 @@
     "name": "Propranolol-Hctz",
     "search": "propranolol-hctz",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -18661,7 +19489,10 @@
     "name": "Pulmicort Flexhaler",
     "search": "pulmicort flexhaler",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -18763,7 +19594,10 @@
     "name": "Quetiapine Fumarate",
     "search": "quetiapine fumarate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18850,7 +19684,10 @@
     "name": "Raloxifene Hcl",
     "search": "raloxifene",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18892,7 +19729,10 @@
     "name": "Ramipril",
     "search": "ramipril",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -18904,7 +19744,10 @@
     "name": "Ranitidine Hcl",
     "search": "ranitidine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -19336,7 +20179,10 @@
     "name": "Rifampin",
     "search": "rifampin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -19738,7 +20584,10 @@
     "name": "Ropinirole Hcl",
     "search": "ropinirole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -19750,7 +20599,10 @@
     "name": "Rosuvastatin Calcium",
     "search": "rosuvastatin calcium",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -20212,7 +21064,10 @@
     "name": "Scopolamine",
     "search": "scopolamine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -20284,7 +21139,10 @@
     "name": "Segluromet",
     "search": "segluromet",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -20551,7 +21409,10 @@
     "name": "Sildenafil Citrate",
     "search": "sildenafil citrate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -20759,7 +21620,10 @@
     "name": "Slynd",
     "search": "slynd",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "covered": false,
@@ -21056,7 +21920,10 @@
     "name": "Sotalol Hcl",
     "search": "sotalol",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -21128,7 +21995,10 @@
     "name": "Spiriva Handihaler",
     "search": "spiriva handihaler",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -21170,7 +22040,10 @@
     "name": "Spironolactone-Hctz",
     "search": "spironolactone-hctz",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -21182,7 +22055,10 @@
     "name": "Sprintec 28",
     "search": "sprintec",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -21224,7 +22100,10 @@
     "name": "Sronyx",
     "search": "sronyx",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -21236,7 +22115,10 @@
     "name": "Steglatro",
     "search": "steglatro",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -21428,7 +22310,10 @@
     "name": "Sucralfate",
     "search": "sucralfate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -21440,7 +22325,10 @@
     "name": "Sulfacetamide Sodium",
     "search": "sulfacetamide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -21452,7 +22340,10 @@
     "name": "Sulfacetamide Sodium-Sulfur",
     "search": "sulfacetamide-sulfur",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -21464,7 +22355,10 @@
     "name": "Sulfacetamide-Sulfur In Urea",
     "search": "sulfacetamide-sulfur in urea",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -21566,7 +22460,10 @@
     "name": "Sumatriptan Succinate",
     "search": "sumatriptan succinate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -21653,7 +22550,10 @@
     "name": "Symbicort",
     "search": "symbicort",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -21815,7 +22715,10 @@
     "name": "Tadalafil (Pah)",
     "search": "tadalafil (pah)",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -21917,7 +22820,10 @@
     "name": "Taltz",
     "search": "taltz",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -21960,7 +22866,10 @@
     "name": "Tamsulosin Hcl",
     "search": "tamsulosin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -21987,7 +22896,10 @@
     "name": "Tarina Fe 1/20",
     "search": "tarina fe",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -22194,7 +23106,10 @@
     "name": "Telmisartan",
     "search": "telmisartan",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -22206,7 +23121,10 @@
     "name": "Telmisartan-Hctz",
     "search": "telmisartan-hctz",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -22323,7 +23241,10 @@
     "name": "Terbinafine Hcl",
     "search": "terbinafine",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -22335,7 +23256,10 @@
     "name": "Terconazole",
     "search": "terconazole",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -22377,7 +23301,10 @@
     "name": "Testosterone Cypionate",
     "search": "testosterone cypionate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -22644,7 +23571,10 @@
     "name": "Tilia Fe",
     "search": "tilia fe",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -22656,7 +23586,10 @@
     "name": "Timolol Maleate",
     "search": "timolol maleate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -22668,7 +23601,10 @@
     "name": "Timolol Maleate (Once-Daily)",
     "search": "timolol maleate (once-daily)",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -22920,7 +23856,10 @@
     "name": "Tobramycin-Dexamethasone",
     "search": "tobramycin-dexamethasone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -22977,7 +23916,10 @@
     "name": "Topiramate",
     "search": "topiramate topamax topiramate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -23064,7 +24006,10 @@
     "name": "Tramadol Hcl",
     "search": "tramadol tramadol tramadol",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -23091,7 +24036,10 @@
     "name": "Transderm Scop (1.5 Mg)",
     "search": "transderm scop (1.5 mg)",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -23118,7 +24066,10 @@
     "name": "Trazodone Hcl",
     "search": "trazodone trazodone trazodone",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -23221,7 +24172,10 @@
     "name": "Tri Femynor",
     "search": "tri femynor",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -23233,7 +24187,10 @@
     "name": "Tri-Estarylla",
     "search": "tri-estarylla",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -23245,7 +24202,10 @@
     "name": "Tri-Linyah",
     "search": "tri-linyah",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -23257,7 +24217,10 @@
     "name": "Tri-Lo-Estarylla",
     "search": "tri-lo-estarylla",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -23269,7 +24232,10 @@
     "name": "Tri-Lo-Marzia",
     "search": "tri-lo-marzia",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -23281,7 +24247,10 @@
     "name": "Tri-Lo-Sprintec",
     "search": "tri-lo-sprintec",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -23293,7 +24262,10 @@
     "name": "Tri-Previfem",
     "search": "tri-previfem",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -23305,7 +24277,10 @@
     "name": "Tri-Sprintec",
     "search": "tri-sprintec",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -23347,7 +24322,10 @@
     "name": "Triamterene-Hctz",
     "search": "triamterene-hctz",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -24096,7 +25074,10 @@
     "name": "Valproic Acid",
     "search": "valproic acid",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 50,
@@ -24108,7 +25089,10 @@
     "name": "Valsartan",
     "search": "valsartan",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -24120,7 +25104,10 @@
     "name": "Valsartan-Hydrochlorothiazide",
     "search": "valsartan-hydrochlorothiazide",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -24132,7 +25119,10 @@
     "name": "Valtrex",
     "search": "valtrex valtrex valacyclovir",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -24190,7 +25180,10 @@
     "name": "Varenicline Tartrate",
     "search": "varenicline tartrate",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -24442,7 +25435,10 @@
     "name": "Verapamil Hcl",
     "search": "verapamil",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -24514,7 +25510,10 @@
     "name": "Viagra",
     "search": "viagra",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": null,
@@ -24618,7 +25617,10 @@
     "name": "Vitamin D (Ergocalciferol)",
     "search": "vitamin d (ergocalciferol)",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 10,
@@ -24660,7 +25662,10 @@
     "name": "Vivelle-Dot",
     "search": "vivelle-dot",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -24717,7 +25722,10 @@
     "name": "Voltaren",
     "search": "voltaren",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -24924,7 +25932,10 @@
     "name": "Warfarin Sodium",
     "search": "warfarin",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -24966,7 +25977,10 @@
     "name": "Wixela Inhub",
     "search": "wixela inhub",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -25145,7 +26159,10 @@
     "name": "Xopenex Hfa",
     "search": "xopenex",
     "horizon": {
-      "covered": false
+      "copay": 50,
+      "tier": "2",
+      "tierLabel": "Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 100,
@@ -25232,7 +26249,10 @@
     "name": "Xulane",
     "search": "xulane",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -25259,7 +26279,10 @@
     "name": "Yaz",
     "search": "yaz",
     "horizon": {
-      "covered": false
+      "copay": 0,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 0,
@@ -25541,7 +26564,10 @@
     "name": "Zithromax Z-Pak",
     "search": "zithromax z-pak",
     "horizon": {
-      "covered": false
+      "copay": 75,
+      "tier": "3",
+      "tierLabel": "Non-Preferred Brand",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -25583,7 +26609,10 @@
     "name": "Zolmitriptan",
     "search": "zolmitriptan",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,
@@ -25610,7 +26639,10 @@
     "name": "Zolpidem Tartrate",
     "search": "zolpidem tartrate",
     "horizon": {
-      "covered": false
+      "copay": 15,
+      "tier": "1",
+      "tierLabel": "Generic",
+      "covered": true
     },
     "redirect": {
       "copay": 25,

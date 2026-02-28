@@ -8836,5 +8836,2069 @@
     "tier": "3",
     "tier_label": "Non-Preferred Brand",
     "copay": 75
+  },
+  "accutane": {
+    "display_name": "Accutane",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "adapalene-benzoyl peroxide": {
+    "display_name": "Adapalene-Benzoyl Peroxide",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "adlyxin": {
+    "display_name": "Adlyxin Starter Pack",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "admelog": {
+    "display_name": "Admelog",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "airduo respiclick": {
+    "display_name": "Airduo Respiclick 113/14",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "albendazole": {
+    "display_name": "Albendazole",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "alfuzosin": {
+    "display_name": "Alfuzosin Hcl Er",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "alogliptin-metformin": {
+    "display_name": "Alogliptin-Metformin Hcl",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "alprazolam": {
+    "display_name": "Alprazolam",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "amantadine": {
+    "display_name": "Amantadine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "amethia lo": {
+    "display_name": "Amethia Lo",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "amiodarone": {
+    "display_name": "Amiodarone Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "amitriptyline": {
+    "display_name": "Amitriptyline Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "amlodipine besy-benazepril": {
+    "display_name": "Amlodipine Besy-Benazepril Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "amlodipine besylate": {
+    "display_name": "Amlodipine Besylate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "amlodipine besylate-valsartan": {
+    "display_name": "Amlodipine Besylate-Valsartan",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "amlodipine-olmesartan": {
+    "display_name": "Amlodipine-Olmesartan",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "amoxicillin-pot clavulanate": {
+    "display_name": "Amoxicillin-Pot Clavulanate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "anastrozole": {
+    "display_name": "Anastrozole",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "androderm": {
+    "display_name": "Androderm",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "anucort-hc": {
+    "display_name": "Anucort-Hc",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "apri": {
+    "display_name": "Apri",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "asmanex (30 metered doses)": {
+    "display_name": "Asmanex (30 Metered Doses)",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "atenolol-chlorthalidone": {
+    "display_name": "Atenolol-Chlorthalidone",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "atorvastatin calcium": {
+    "display_name": "Atorvastatin Calcium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "aurovela fe": {
+    "display_name": "Aurovela Fe 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "aviane": {
+    "display_name": "Aviane",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "azathioprine": {
+    "display_name": "Azathioprine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "azelastine": {
+    "display_name": "Azelastine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "azelastine-fluticasone": {
+    "display_name": "Azelastine-Fluticasone",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "azithromycin": {
+    "display_name": "Azithromycin",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "azurette": {
+    "display_name": "Azurette",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "basaglar kwikpen": {
+    "display_name": "Basaglar Kwikpen",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "benazepril-hydrochlorothiazide": {
+    "display_name": "Benazepril-Hydrochlorothiazide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "benicar": {
+    "display_name": "Benicar",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "benzonatate": {
+    "display_name": "Benzonatate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "benzoyl peroxide wash": {
+    "display_name": "Benzoyl Peroxide Wash",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "benztropine mesylate": {
+    "display_name": "Benztropine Mesylate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "besivance": {
+    "display_name": "Besivance",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "betamethasone dipropionate aug": {
+    "display_name": "Betamethasone Dipropionate Aug",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "bimatoprost": {
+    "display_name": "Bimatoprost",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "bisoprolol fumarate": {
+    "display_name": "Bisoprolol Fumarate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "bisoprolol-hydrochlorothiazide": {
+    "display_name": "Bisoprolol-Hydrochlorothiazide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "blisovi fe": {
+    "display_name": "Blisovi Fe 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "breztri aerosphere": {
+    "display_name": "Breztri Aerosphere",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "brilinta": {
+    "display_name": "Brilinta",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "budesonide": {
+    "display_name": "Budesonide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "budesonide-formoterol fumarate": {
+    "display_name": "Budesonide-Formoterol Fumarate",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "bumetanide": {
+    "display_name": "Bumetanide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "bupropion": {
+    "display_name": "Bupropion Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "bupropion (sr)": {
+    "display_name": "Bupropion Hcl Er (Sr)",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "bupropion (xl)": {
+    "display_name": "Bupropion Hcl Er (Xl)",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "buspirone": {
+    "display_name": "Buspirone Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "butalbital-apap-caffeine": {
+    "display_name": "Butalbital-Apap-Caffeine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "bydureon": {
+    "display_name": "Bydureon",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "byetta": {
+    "display_name": "Byetta 5 Mcg Pen",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "bystolic": {
+    "display_name": "Bystolic",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "calcitriol": {
+    "display_name": "Calcitriol",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "camila": {
+    "display_name": "Camila",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "camrese lo": {
+    "display_name": "Camrese Lo",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "captopril-hydrochlorothiazide": {
+    "display_name": "Captopril-Hydrochlorothiazide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "carbidopa-levodopa": {
+    "display_name": "Carbidopa-Levodopa",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "carisoprodol": {
+    "display_name": "Carisoprodol",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "cartia xt": {
+    "display_name": "Cartia Xt",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "cefditoren pivoxil": {
+    "display_name": "Cefditoren Pivoxil",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "cefixime": {
+    "display_name": "Cefixime",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "cefprozil": {
+    "display_name": "Cefprozil",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ceftriaxone": {
+    "display_name": "Ceftriaxone Sodium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "cefuroxime axetil": {
+    "display_name": "Cefuroxime Axetil",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "celecoxib": {
+    "display_name": "Celecoxib",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "cephalexin": {
+    "display_name": "Cephalexin",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "cetirizine": {
+    "display_name": "Cetirizine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "chlorthalidone": {
+    "display_name": "Chlorthalidone",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "cimetidine": {
+    "display_name": "Cimetidine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ciprofloxacin-dexamethasone": {
+    "display_name": "Ciprofloxacin-Dexamethasone",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "citalopram hydrobromide": {
+    "display_name": "Citalopram Hydrobromide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "climara": {
+    "display_name": "Climara",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "clindamycin": {
+    "display_name": "Clindamycin Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "clindamycin phos-benzoyl perox": {
+    "display_name": "Clindamycin Phos-Benzoyl Perox",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "clindamycin phosphate": {
+    "display_name": "Clindamycin Phosphate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "clonidine": {
+    "display_name": "Clonidine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "clopidogrel bisulfate": {
+    "display_name": "Clopidogrel Bisulfate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "clotrimazole": {
+    "display_name": "Clotrimazole",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "clotrimazole-betamethasone": {
+    "display_name": "Clotrimazole-Betamethasone",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "colchicine": {
+    "display_name": "Colchicine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "combigan": {
+    "display_name": "Combigan",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "combivent respimat": {
+    "display_name": "Combivent Respimat",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "coreg": {
+    "display_name": "Coreg",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "crestor": {
+    "display_name": "Crestor",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "cryselle-28": {
+    "display_name": "Cryselle-28",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "cyanocobalamin": {
+    "display_name": "Cyanocobalamin",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "cyclobenzaprine": {
+    "display_name": "Cyclobenzaprine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "cytomel": {
+    "display_name": "Cytomel",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "cytotec": {
+    "display_name": "Cytotec",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "depo-subq provera": {
+    "display_name": "Depo-Subq Provera 104",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "desloratadine": {
+    "display_name": "Desloratadine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "desmopressin acetate": {
+    "display_name": "Desmopressin Acetate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "desogestrel-ethinyl estradiol": {
+    "display_name": "Desogestrel-Ethinyl Estradiol",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "desvenlafaxine succinate": {
+    "display_name": "Desvenlafaxine Succinate Er",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "dexamethasone intensol": {
+    "display_name": "Dexamethasone Intensol",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "dexmethylphenidate": {
+    "display_name": "Dexmethylphenidate Hcl Er",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "diazepam": {
+    "display_name": "Diazepam",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "diclofenac potassium": {
+    "display_name": "Diclofenac Potassium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "dicloxacillin": {
+    "display_name": "Dicloxacillin Sodium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "diovan": {
+    "display_name": "Diovan",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "dotti": {
+    "display_name": "Dotti",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "doxazosin mesylate": {
+    "display_name": "Doxazosin Mesylate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "doxycycline hyclate": {
+    "display_name": "Doxycycline Hyclate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "doxycycline monohydrate": {
+    "display_name": "Doxycycline Monohydrate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "duloxetine": {
+    "display_name": "Duloxetine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "dutasteride": {
+    "display_name": "Dutasteride",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "eliquis dvt/pe": {
+    "display_name": "Eliquis Dvt/Pe Starter Pack",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "eluryng": {
+    "display_name": "Eluryng",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "emtricitabine-tenofovir df": {
+    "display_name": "Emtricitabine-Tenofovir Df",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "enalapril maleate": {
+    "display_name": "Enalapril Maleate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "enskyce": {
+    "display_name": "Enskyce",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "entresto": {
+    "display_name": "Entresto",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "errin": {
+    "display_name": "Errin",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "erythromycin base": {
+    "display_name": "Erythromycin Base",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "escitalopram oxalate": {
+    "display_name": "Escitalopram Oxalate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "esomeprazole magnesium": {
+    "display_name": "Esomeprazole Magnesium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "estrogel": {
+    "display_name": "Estrogel",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "eszopiclone": {
+    "display_name": "Eszopiclone",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "euthyrox": {
+    "display_name": "Euthyrox",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "ezetimibe": {
+    "display_name": "Ezetimibe",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ezetimibe-simvastatin": {
+    "display_name": "Ezetimibe-Simvastatin",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "famciclovir": {
+    "display_name": "Famciclovir",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "famotidine": {
+    "display_name": "Famotidine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "femynor": {
+    "display_name": "Femynor",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "ferrous sulfate": {
+    "display_name": "Ferrous Sulfate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "fexofenadine": {
+    "display_name": "Fexofenadine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "finasteride": {
+    "display_name": "Finasteride",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "flecainide acetate": {
+    "display_name": "Flecainide Acetate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "flonase allergy relief": {
+    "display_name": "Flonase Allergy Relief",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "fluconazole": {
+    "display_name": "Fluconazole",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "fluticasone propionate": {
+    "display_name": "Fluticasone Propionate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "fluvoxamine maleate": {
+    "display_name": "Fluvoxamine Maleate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "folic acid": {
+    "display_name": "Folic Acid",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "furosemide": {
+    "display_name": "Furosemide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "gemfibrozil": {
+    "display_name": "Gemfibrozil",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "gianvi": {
+    "display_name": "Gianvi",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "glimepiride": {
+    "display_name": "Glimepiride",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "glipizide": {
+    "display_name": "Glipizide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "glucagon emergency": {
+    "display_name": "Glucagon Emergency",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "griseofulvin microsize": {
+    "display_name": "Griseofulvin Microsize",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "guaifenesin-codeine": {
+    "display_name": "Guaifenesin-Codeine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "hailey fe": {
+    "display_name": "Hailey Fe 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "halobetasol propionate": {
+    "display_name": "Halobetasol Propionate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "haloperidol": {
+    "display_name": "Haloperidol",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "heather": {
+    "display_name": "Heather",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "humalog junior kwikpen": {
+    "display_name": "Humalog Junior Kwikpen",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "humalog mix": {
+    "display_name": "Humalog Mix 50/50",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "humira": {
+    "display_name": "Humira Pen",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "humulin": {
+    "display_name": "Humulin 70/30",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "humulin r u-500 kwikpen": {
+    "display_name": "Humulin R U-500 Kwikpen",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "hydralazine": {
+    "display_name": "Hydralazine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "hydrochlorothiazide": {
+    "display_name": "Hydrochlorothiazide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "hydrocortisone butyrate": {
+    "display_name": "Hydrocortisone Butyrate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "hydroxychloroquine sulfate": {
+    "display_name": "Hydroxychloroquine Sulfate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "hydroxyzine": {
+    "display_name": "Hydroxyzine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "hyoscyamine sulfate": {
+    "display_name": "Hyoscyamine Sulfate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "imipramine": {
+    "display_name": "Imipramine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "incassia": {
+    "display_name": "Incassia",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "indapamide": {
+    "display_name": "Indapamide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "insulin lispro (1 unit dial)": {
+    "display_name": "Insulin Lispro (1 Unit Dial)",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "ipratropium bromide": {
+    "display_name": "Ipratropium Bromide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ipratropium-albuterol": {
+    "display_name": "Ipratropium-Albuterol",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "irbesartan": {
+    "display_name": "Irbesartan",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "irbesartan-hydrochlorothiazide": {
+    "display_name": "Irbesartan-Hydrochlorothiazide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "isibloom": {
+    "display_name": "Isibloom",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "isoniazid": {
+    "display_name": "Isoniazid",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ivermectin": {
+    "display_name": "Ivermectin",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "junel": {
+    "display_name": "Junel 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "junel fe": {
+    "display_name": "Junel Fe 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "kapspargo sprinkle": {
+    "display_name": "Kapspargo Sprinkle",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "kelnor": {
+    "display_name": "Kelnor 1/35",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "ketoconazole": {
+    "display_name": "Ketoconazole",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ketorolac tromethamine": {
+    "display_name": "Ketorolac Tromethamine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "kombiglyze": {
+    "display_name": "Kombiglyze Xr",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "labetalol": {
+    "display_name": "Labetalol Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "lamotrigine": {
+    "display_name": "Lamotrigine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "lansoprazole": {
+    "display_name": "Lansoprazole",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "lantus": {
+    "display_name": "Lantus",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "larin": {
+    "display_name": "Larin 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "larin fe": {
+    "display_name": "Larin Fe 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "latanoprost": {
+    "display_name": "Latanoprost",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "lessina": {
+    "display_name": "Lessina",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "levocetirizine dihydrochloride": {
+    "display_name": "Levocetirizine Dihydrochloride",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "levonorgest-eth estrad": {
+    "display_name": "Levonorgest-Eth Estrad 91-Day",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "levonorgestrel": {
+    "display_name": "Levonorgestrel",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "levonorgestrel-ethinyl estrad": {
+    "display_name": "Levonorgestrel-Ethinyl Estrad",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "levoxyl": {
+    "display_name": "Levoxyl",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "lidocaine viscous": {
+    "display_name": "Lidocaine Viscous Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "linzess": {
+    "display_name": "Linzess",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "liothyronine": {
+    "display_name": "Liothyronine Sodium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "lisinopril": {
+    "display_name": "Lisinopril",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "lo-zumandimine": {
+    "display_name": "Lo-Zumandimine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "loratadine": {
+    "display_name": "Loratadine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "lorazepam": {
+    "display_name": "Lorazepam",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "loryna": {
+    "display_name": "Loryna",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "losartan potassium": {
+    "display_name": "Losartan Potassium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "losartan potassium-hctz": {
+    "display_name": "Losartan Potassium-Hctz",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "lunesta": {
+    "display_name": "Lunesta",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "magnesium oxide": {
+    "display_name": "Magnesium Oxide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "meclizine": {
+    "display_name": "Meclizine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "medroxyprogesterone acetate": {
+    "display_name": "Medroxyprogesterone Acetate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "meloxicam": {
+    "display_name": "Meloxicam",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "metformin": {
+    "display_name": "Metformin Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "metformin (mod)": {
+    "display_name": "Metformin Hcl Er (Mod)",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "metformin (osm)": {
+    "display_name": "Metformin Hcl Er (Osm)",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "methimazole": {
+    "display_name": "Methimazole",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "methylphenidate (cd)": {
+    "display_name": "Methylphenidate Hcl Er (Cd)",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "metoprolol succinate": {
+    "display_name": "Metoprolol Succinate Er",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "metronidazole": {
+    "display_name": "Metronidazole",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "microgestin": {
+    "display_name": "Microgestin 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "microgestin fe": {
+    "display_name": "Microgestin Fe 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "minocycline": {
+    "display_name": "Minocycline Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "minoxidil": {
+    "display_name": "Minoxidil",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "mirtazapine": {
+    "display_name": "Mirtazapine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "modafinil": {
+    "display_name": "Modafinil",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "molnupiravir": {
+    "display_name": "Molnupiravir",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "mometasone furoate": {
+    "display_name": "Mometasone Furoate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "morphine sulfate": {
+    "display_name": "Morphine Sulfate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "nadolol": {
+    "display_name": "Nadolol",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "nature-throid": {
+    "display_name": "Nature-Throid",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "nebivolol": {
+    "display_name": "Nebivolol Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "neomycin sulfate": {
+    "display_name": "Neomycin Sulfate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "neomycin-polymyxin-dexameth": {
+    "display_name": "Neomycin-Polymyxin-Dexameth",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "nicoderm cq": {
+    "display_name": "Nicoderm Cq",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "nicotine polacrilex": {
+    "display_name": "Nicotine Polacrilex",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "nifedipine": {
+    "display_name": "Nifedipine Er",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "nikki": {
+    "display_name": "Nikki",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "nitrofurantoin macrocrystal": {
+    "display_name": "Nitrofurantoin Macrocrystal",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "norethin ace-eth estrad-fe": {
+    "display_name": "Norethin Ace-Eth Estrad-Fe",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "nortrel": {
+    "display_name": "Nortrel 0.5/35 (28)",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "nortriptyline": {
+    "display_name": "Nortriptyline Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "novolin": {
+    "display_name": "Novolin 70/30 Flexpen",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "np thyroid": {
+    "display_name": "Np Thyroid",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "nystatin-triamcinolone": {
+    "display_name": "Nystatin-Triamcinolone",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ocella": {
+    "display_name": "Ocella",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "olmesartan medoxomil-hctz": {
+    "display_name": "Olmesartan Medoxomil-Hctz",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "olmesartan-amlodipine-hctz": {
+    "display_name": "Olmesartan-Amlodipine-Hctz",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "omega-3-acid ethyl esters": {
+    "display_name": "Omega-3-Acid Ethyl Esters",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ondansetron": {
+    "display_name": "Ondansetron",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "onetouch delica lancets": {
+    "display_name": "Onetouch Delica Lancets 30G",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "onetouch lancets": {
+    "display_name": "Onetouch Lancets",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "onetouch ultra": {
+    "display_name": "Onetouch Ultra",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "onetouch ultra control": {
+    "display_name": "Onetouch Ultra Control",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "onetouch verio": {
+    "display_name": "Onetouch Verio",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "onglyza": {
+    "display_name": "Onglyza",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "oseltamivir phosphate": {
+    "display_name": "Oseltamivir Phosphate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "oxcarbazepine": {
+    "display_name": "Oxcarbazepine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "oxybutynin chloride": {
+    "display_name": "Oxybutynin Chloride",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "oxycodone-acetaminophen": {
+    "display_name": "Oxycodone-Acetaminophen",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ozempic (1 mg/dose)": {
+    "display_name": "Ozempic (1 Mg/Dose)",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "pacerone": {
+    "display_name": "Pacerone",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "paroxetine": {
+    "display_name": "Paroxetine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "penicillin v potassium": {
+    "display_name": "Penicillin V Potassium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "phenazopyridine": {
+    "display_name": "Phenazopyridine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "plan b one-step": {
+    "display_name": "Plan B One-Step",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "polymyxin b-trimethoprim": {
+    "display_name": "Polymyxin B-Trimethoprim",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "potassium chloride": {
+    "display_name": "Potassium Chloride Er",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "potassium citrate": {
+    "display_name": "Potassium Citrate Er",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "pramipexole dihydrochloride": {
+    "display_name": "Pramipexole Dihydrochloride",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "pravastatin": {
+    "display_name": "Pravastatin Sodium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "prazosin": {
+    "display_name": "Prazosin Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "prednisolone acetate": {
+    "display_name": "Prednisolone Acetate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "prednisolone phosphate": {
+    "display_name": "Prednisolone Sodium Phosphate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "prednisone intensol": {
+    "display_name": "Prednisone Intensol",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "pregabalin": {
+    "display_name": "Pregabalin",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "previfem": {
+    "display_name": "Previfem",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "proair": {
+    "display_name": "Proair Hfa",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "progesterone micronized": {
+    "display_name": "Progesterone Micronized",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "promethazine-codeine": {
+    "display_name": "Promethazine-Codeine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "promethazine-dm": {
+    "display_name": "Promethazine-Dm",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "propranolol-hctz": {
+    "display_name": "Propranolol-Hctz",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "pulmicort flexhaler": {
+    "display_name": "Pulmicort Flexhaler",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "quetiapine fumarate": {
+    "display_name": "Quetiapine Fumarate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "raloxifene": {
+    "display_name": "Raloxifene Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ramipril": {
+    "display_name": "Ramipril",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ranitidine": {
+    "display_name": "Ranitidine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "rifampin": {
+    "display_name": "Rifampin",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "ropinirole": {
+    "display_name": "Ropinirole Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "rosuvastatin calcium": {
+    "display_name": "Rosuvastatin Calcium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "scopolamine": {
+    "display_name": "Scopolamine",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "segluromet": {
+    "display_name": "Segluromet",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "sildenafil citrate": {
+    "display_name": "Sildenafil Citrate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "slynd": {
+    "display_name": "Slynd",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "sotalol": {
+    "display_name": "Sotalol Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "spiriva handihaler": {
+    "display_name": "Spiriva Handihaler",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "spironolactone-hctz": {
+    "display_name": "Spironolactone-Hctz",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "sprintec": {
+    "display_name": "Sprintec 28",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "sronyx": {
+    "display_name": "Sronyx",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "steglatro": {
+    "display_name": "Steglatro",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "sucralfate": {
+    "display_name": "Sucralfate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "sulfacetamide": {
+    "display_name": "Sulfacetamide Sodium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "sulfacetamide-sulfur": {
+    "display_name": "Sulfacetamide Sodium-Sulfur",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "sulfacetamide-sulfur in urea": {
+    "display_name": "Sulfacetamide-Sulfur In Urea",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "sumatriptan succinate": {
+    "display_name": "Sumatriptan Succinate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "symbicort": {
+    "display_name": "Symbicort",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "tadalafil (pah)": {
+    "display_name": "Tadalafil (Pah)",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "taltz": {
+    "display_name": "Taltz",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "tamsulosin": {
+    "display_name": "Tamsulosin Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "tarina fe": {
+    "display_name": "Tarina Fe 1/20",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "telmisartan": {
+    "display_name": "Telmisartan",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "telmisartan-hctz": {
+    "display_name": "Telmisartan-Hctz",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "terbinafine": {
+    "display_name": "Terbinafine Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "terconazole": {
+    "display_name": "Terconazole",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "testosterone cypionate": {
+    "display_name": "Testosterone Cypionate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "tilia fe": {
+    "display_name": "Tilia Fe",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "timolol maleate": {
+    "display_name": "Timolol Maleate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "timolol maleate (once-daily)": {
+    "display_name": "Timolol Maleate (Once-Daily)",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "tobramycin-dexamethasone": {
+    "display_name": "Tobramycin-Dexamethasone",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "topiramate": {
+    "display_name": "Topiramate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "tramadol": {
+    "display_name": "Tramadol Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "transderm scop (1.5 mg)": {
+    "display_name": "Transderm Scop (1.5 Mg)",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "trazodone": {
+    "display_name": "Trazodone Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "tri femynor": {
+    "display_name": "Tri Femynor",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "tri-estarylla": {
+    "display_name": "Tri-Estarylla",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "tri-linyah": {
+    "display_name": "Tri-Linyah",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "tri-lo-estarylla": {
+    "display_name": "Tri-Lo-Estarylla",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "tri-lo-marzia": {
+    "display_name": "Tri-Lo-Marzia",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "tri-lo-sprintec": {
+    "display_name": "Tri-Lo-Sprintec",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "tri-previfem": {
+    "display_name": "Tri-Previfem",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "tri-sprintec": {
+    "display_name": "Tri-Sprintec",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "triamterene-hctz": {
+    "display_name": "Triamterene-Hctz",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "valproic acid": {
+    "display_name": "Valproic Acid",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "valsartan": {
+    "display_name": "Valsartan",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "valsartan-hydrochlorothiazide": {
+    "display_name": "Valsartan-Hydrochlorothiazide",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "valtrex": {
+    "display_name": "Valtrex",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "varenicline tartrate": {
+    "display_name": "Varenicline Tartrate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "verapamil": {
+    "display_name": "Verapamil Hcl",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "viagra": {
+    "display_name": "Viagra",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "vitamin d (ergocalciferol)": {
+    "display_name": "Vitamin D (Ergocalciferol)",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "vivelle-dot": {
+    "display_name": "Vivelle-Dot",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "voltaren": {
+    "display_name": "Voltaren",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "warfarin": {
+    "display_name": "Warfarin Sodium",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "wixela inhub": {
+    "display_name": "Wixela Inhub",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "xopenex": {
+    "display_name": "Xopenex Hfa",
+    "tier": "2",
+    "tier_label": "Preferred Brand",
+    "copay": 50
+  },
+  "xulane": {
+    "display_name": "Xulane",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "yaz": {
+    "display_name": "Yaz",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 0
+  },
+  "zithromax z-pak": {
+    "display_name": "Zithromax Z-Pak",
+    "tier": "3",
+    "tier_label": "Non-Preferred Brand",
+    "copay": 75
+  },
+  "zolmitriptan": {
+    "display_name": "Zolmitriptan",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
+  },
+  "zolpidem tartrate": {
+    "display_name": "Zolpidem Tartrate",
+    "tier": "1",
+    "tier_label": "Generic",
+    "copay": 15
   }
 }
